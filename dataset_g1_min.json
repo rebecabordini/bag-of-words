@@ -1,0 +1,28 @@
+{
+  "took" : 356,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 2,
+    "successful" : 2,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 3488959,
+    "max_score" : null,
+    "hits" : [ {
+      "_index" : "conteudo_editorial_g1",
+      "_type" : "multi-content",
+      "_id" : "6c0b9bbd-7878-401c-a9ef-6aa545a05a17",
+      "_score" : null,
+      "_source":{"body":"Confira a previsão do tempo para a Grande Vitória no feriado da Independência\nO feriado da Independência vai ser ensolarado em todo o Espírito Santo. Pode chover em algumas regiões nos próximos dias. Não há risco de temporais, mas haverá ventos mais fortes nas áreas litorâneas. A informações são do Incaper.\nNesta quinta-feira (7), há predomínio de sol em todo o estado e temperaturas mais elevadas durante o dia, com pequena chance de chuva à noite e de madrugada da Grande Vitória ao Norte. Na capital, a temperatura mínima prevista é de 17 °C e máxima de 28 °C. Já na região Serrana varia de 7 ºC a 27 ºC.\nJá a sexta-feira (8) amanhece nublada na região Sudoeste. Nas demais, sol entre muitas nuvens e chuva em alguns momentos. O litoral Sul capixaba pode ter rajadas mais fortes de vento. Na Grande Vitória, a mínima será de 15 °C e máxima de 28 °C. No Norte, a máxima pode chegar a 29 ºC. Na região Serrana pode chover.\nNo sábado (9) será nublado e com previsão de chuva em alguns momentos do dia por quase todo o estado. As áreas entre o litoral Nordeste e o Metropolitano têm sol entre nuvens com chuva passageira em alguns momentos. Apenas a região Sul e trechos do Sul Serrano têm variação de nuvens, mas sem expectativa de chuva. No litoral Sul, podem ocorrer rajadas fortes de vento.\nO domingo (10) também será nublado e previsão de chuva em alguns momentos do dia por todo o estado. No litoral Sul, algumas rajadas podem ser mais fortes.\nTempo ensolarado na Praia de Camburi, em Vitória\nReprodução/TV Gazeta","url":"http://g1.globo.com/espirito-santo/noticia/feriado-da-independencia-sera-ensolarado-em-todo-o-espirito-santo.ghtml"},
+      "sort" : [ 1504729610048 ]
+    }, {
+      "_index" : "conteudo_editorial_g1",
+      "_type" : "multi-content",
+      "_id" : "f6962708-6872-4057-90c1-beffd9bea4ef",
+      "_score" : null,
+      "_source":{"body":"Jogo na Arena de Pernambuco é válido pela Série B do Campeonato Brasileiro\nAldo Carneiro/Pernambuco Press\nA Arena de Pernambuco, localizada em São Lourenço da Mata, no Grande Recife, recebe o jogo entre Náutico e Brasil de Pelotas (RS), válido pela Série B do Campeonato Brasileiro. Com início previsto para as 21h45 desta quarta-feira (6), a partida conta com um esquema especial de transporte e também reforço no policiamento.\nOs torcedores que optarem ir de transporte público podem pegar a linha Centro do metrô e desembarcar na Estação Cosme e Damião, onde pegam a linha 047 - Cosme e Damião/Arena, para desembarcar no estádio.\nO retorno também é feito de ônibus, sendo o embarque realizado na frente da Praça Sul e tendo como destino final o Terminal do Cais de Santa Rita, no Bairro do Recife, na área central da cidade. Dúvidas podem ser solucionadas com a Central de Atendimento ao Cliente pelo telefone 0800.081.0158.\nPara quem preferir ir de veículos particulares, estão disponíveis os estacionamentos laranja, amarelo e do subsolo 2. Os valores são R$ 10 para motos, R$ 20 para carros e vans e R$ 40 para ônibus fretados. Quem for de táxi deve descer no ponto de parada do acesso sul, no estacionamento azul, que fica próximao à bilheteria da Arena de Pernambuco.\nSegurança\nAo todo, 157 policiais militares compõem o esquema de segurança para o jogo entre Náutico e Brasil de Pelotas, seja na área interna da Arena de Pernambuco, seja nas estações do metrô e em terminais integrados de passageiros. A operação é monitorada por oficiais da PM através de câmeras de segurança no Centro Integrado de Controle e Comando Regional. \nOs torcedores que presenciarem delitos relacionados ao jogo de futebol podem entrar em contato com a Secretaria de Defesa Social de Pernambuco através do WhatsApp do Torcedor, no número (81) 98606-9880. Pela ferramenta, é possível enviar imagens, vídeos, mensagens de voz e texto com denúncias. A identidade dos denunciantes é preservada, segundo a Polícia Militar. Também é possível denunciar pelo número 190. ","url":"http://g1.globo.com/pernambuco/noticia/jogo-entre-nautico-e-brasil-de-pelotas-na-arena-de-pe-tem-esquemas-de-mobilidade-e-policiamento.ghtml"},
+      "sort" : [ 1504729606653 ]
+    } ]
+  }
+}
