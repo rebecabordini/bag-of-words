@@ -46,14 +46,41 @@ class Document:
         return SentenceHelpers.clean_token_list(self.token_list)
 
 
+class Vocabulary:
+    def __init__(self, documents):
+        self.documents = documents
+        self.token_list = self.generate_vocabulary(mode="full")
+        self.token_list_size = len(self.token_list.keys())
+        self.clean_token_list = self.generate_vocabulary(mode="clean")
+        self.clean_token_list_size = len(self.clean_token_list.keys())
+
+    def generate_vocabulary(self, mode):
+        vocabulary = {}
+
+        for document in self.documents:
+            # Remove duplicated tokens
+            if mode == "full":
+                list_to_search = document.token_list
+            else:
+                list_to_search = document.clean_token_list
+
+            for token in list_to_search:
+                if vocabulary.has_key(token):
+                    vocabulary[token] = vocabulary[token] + 1
+                else:
+                    vocabulary.update({token: 1})
+
+        return vocabulary
+
 if __name__ == '__main__':
-    with open('./dataset_g1_min.json') as documents_json:
+    with open('./dataset_g1.json') as documents_json:
         data = json.load(documents_json)
     hits = data.get('hits', {}).get('hits', [])
 
-    documents_list = []
-
+    document_list = []
     for hit in hits:
         data = hit.get('_source')
         document = Document(data=data)
-        documents_list.append(document)
+        document_list.append(document)
+
+    vocabulary = Vocabulary(documents=document_list)
