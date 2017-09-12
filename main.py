@@ -9,12 +9,23 @@ class SentenceHelpers:
 
     @classmethod
     def remove_punctuation_marks(cls, sentence):
+        # Procurar expressao regular para melhorar
         return sentence \
             .replace('.', '') \
             .replace(',', '') \
             .replace('?', '') \
             .replace('!', '') \
             .replace(';', '') \
+            .replace('[', '') \
+            .replace(']', '') \
+            .replace('(', '') \
+            .replace(')', '') \
+            .replace('{', '') \
+            .replace('}', '') \
+            .replace('/', '') \
+            .replace('-', '') \
+            .replace('_', '') \
+            .replace(':', '') \
             .replace('\n', ' ')
 
     @classmethod
@@ -84,3 +95,15 @@ if __name__ == '__main__':
         document_list.append(document)
 
     vocabulary = Vocabulary(documents=document_list)
+
+    # Creating a file with token list
+    file = open("vocabulary_with_token_list.txt", "w")
+    file.write("Vocabulary size {size}".format(size=vocabulary.token_list_size))
+    file.write(str(vocabulary.token_list))
+    file.close()
+
+    # Creating a file with cleantoken list
+    file = open("vocabulary.txt", "w")
+    file.write("Vocabulary size {size}".format(size=vocabulary.clean_token_list_size))
+    file.write(str(vocabulary.clean_token_list))
+    file.close()
