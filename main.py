@@ -11,7 +11,7 @@ def create_file(file_name, content):
 
 
 if __name__ == '__main__':
-    with open('./dataset_g1.json') as documents_json:
+    with open('./datasets/dataset_g1.json') as documents_json:
         data = json.load(documents_json)
     hits = data.get('hits', {}).get('hits', [])
 
@@ -25,6 +25,6 @@ if __name__ == '__main__':
 
     vocabulary = Vocabulary(documents=document_list)
 
-    create_file(file_name='initial_vocabulary.txt', content=str(vocabulary.token_list))
-    create_file(file_name='vocabulary.txt', content=str(vocabulary.clean_token_list))
-    create_file(file_name='document_size_in_tokens.txt', content=str(document_size_in_tokens))
+    create_file(file_name='results/initial_vocabulary.txt', content=str(vocabulary.token_list))
+    create_file(file_name='results/vocabulary.txt', content=str(vocabulary.clean_token_list))
+    create_file(file_name='results/document_size_in_tokens.txt', content=str(document_size_in_tokens))
