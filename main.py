@@ -1,87 +1,8 @@
 import json
 
-from unidecode import unidecode
-from stop_words import get_stop_words
+from models.document import Document
+from models.vocabulary import Vocabulary
 
-
-class SentenceHelpers:
-    stop_words = [unidecode(stop_word) for stop_word in get_stop_words('portuguese')]
-
-    @classmethod
-    def remove_punctuation_marks(cls, sentence):
-        # Procurar expressao regular para melhorar
-        return sentence \
-            .replace('.', '') \
-            .replace(',', '') \
-            .replace('?', '') \
-            .replace('!', '') \
-            .replace(';', '') \
-            .replace('[', '') \
-            .replace(']', '') \
-            .replace('(', '') \
-            .replace(')', '') \
-            .replace('{', '') \
-            .replace('}', '') \
-            .replace('/', '') \
-            .replace('-', '') \
-            .replace('_', '') \
-            .replace(':', '') \
-            .replace('\n', ' ')
-
-    @classmethod
-    def clean_token_list(cls, tokens):
-        new_token_list = []
-        for token in tokens:
-            # Remove acentos e transforma tudo para lower case
-            new_token = unidecode(token.lower())
-            # Remove stop-words
-            if new_token not in cls.stop_words:
-                new_token_list.append(new_token)
-        return new_token_list
-
-
-class Document:
-    def __init__(self, data):
-        self.body = data.get('body', '')
-        self.url = data.get('url', '')
-        self.token_list = self.generate_token_list()
-        self.token_list_size = len(self.token_list)
-        self.clean_token_list = self.clean_token_list()
-        self.clean_token_list_size = len(self.clean_token_list)
-
-    def generate_token_list(self):
-        token_list = SentenceHelpers.remove_punctuation_marks(self.body).split(' ')
-        return token_list
-
-    def clean_token_list(self):
-        return SentenceHelpers.clean_token_list(self.token_list)
-
-
-class Vocabulary:
-    def __init__(self, documents):
-        self.documents = documents
-        self.token_list = self.generate_vocabulary(mode="full")
-        self.token_list_size = len(self.token_list.keys())
-        self.clean_token_list = self.generate_vocabulary(mode="clean")
-        self.clean_token_list_size = len(self.clean_token_list.keys())
-
-    def generate_vocabulary(self, mode):
-        vocabulary = {}
-
-        for document in self.documents:
-            # Remove duplicated tokens
-            if mode == "full":
-                list_to_search = document.token_list
-            else:
-                list_to_search = document.clean_token_list
-
-            for token in list_to_search:
-                if vocabulary.has_key(token):
-                    vocabulary[token] = vocabulary[token] + 1
-                else:
-                    vocabulary.update({token: 1})
-
-        return vocabulary
 
 if __name__ == '__main__':
     with open('./dataset_g1.json') as documents_json:
