@@ -24,7 +24,8 @@ class SentenceHelpers:
             .replace('-', '') \
             .replace('_', '') \
             .replace(':', '') \
-            .replace('\n', ' ')
+            .replace('\n', ' ') \
+            .replace('\t', ' ')
 
     @classmethod
     def clean_token_list(cls, tokens):
