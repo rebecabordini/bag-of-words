@@ -11,8 +11,9 @@ class Document:
         self.clean_token_list_size = len(self.clean_token_list)
 
     def generate_token_list(self):
-        token_list = SentenceHelpers.remove_punctuation_marks(self.body).split(' ')
+        token_list = self.body.replace('\n', ' ').split(' ')
         return token_list
 
     def clean_token_list(self):
-        return SentenceHelpers.clean_token_list(self.token_list)
+        clean_token_list = SentenceHelpers.remove_punctuation_marks(self.body).split(' ')
+        return SentenceHelpers.clean_token_list(clean_token_list)
