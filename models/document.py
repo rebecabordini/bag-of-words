@@ -11,7 +11,7 @@ class Document:
         self.clean_token_list_size = len(self.clean_token_list)
 
     def generate_token_list(self):
-        token_list = self.body.replace('\n', ' ').replace('\t', '').split(' ')
+        token_list = self.body.split(' ')
         return token_list
 
     def clean_token_list(self):
