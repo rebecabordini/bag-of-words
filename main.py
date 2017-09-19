@@ -16,12 +16,15 @@ if __name__ == '__main__':
     hits = data.get('hits', {}).get('hits', [])
 
     document_list = []
+    document_size_in_tokens = []
     for hit in hits:
         data = hit.get('_source')
         document = Document(data=data)
         document_list.append(document)
+        document_size_in_tokens.append(document.clean_token_list_size)
 
     vocabulary = Vocabulary(documents=document_list)
 
-    create_file(file_name='vocabulary_with_token_list.txt', content=str(vocabulary.token_list))
+    create_file(file_name='initial_vocabulary.txt', content=str(vocabulary.token_list))
     create_file(file_name='vocabulary.txt', content=str(vocabulary.clean_token_list))
+    create_file(file_name='document_size_in_tokens.txt', content=str(document_size_in_tokens))
