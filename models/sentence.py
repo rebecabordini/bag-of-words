@@ -7,7 +7,6 @@ class SentenceHelpers:
 
     @classmethod
     def remove_punctuation_marks(cls, sentence):
-        # Procurar expressao regular para melhorar
         return sentence \
             .replace('.', '') \
             .replace(',', '') \
@@ -32,9 +31,9 @@ class SentenceHelpers:
     def clean_token_list(cls, tokens):
         new_token_list = []
         for token in tokens:
-            # Remove acentos e transforma tudo para lower case
+            # Removes accent and transforms all tokens in lower case
             new_token = unidecode(token.lower())
-            # Remove stop-words
+            # Removes stop-words
             if new_token not in cls.stop_words:
                 new_token_list.append(new_token)
         return new_token_list
