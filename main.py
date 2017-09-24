@@ -3,7 +3,7 @@
 import json
 import operator
 
-from matplotlib import pylab
+from matplotlib import pylab, pyplot
 
 from models.document import Document
 from models.vocabulary import Vocabulary
@@ -24,23 +24,43 @@ def cumulative_frequencies(data):
         yield cf
 
 
-def generate_visualization(data, cumulative=True):
-    ordered_data = sorted(data.items(), key=operator.itemgetter(1), reverse=True)
-    most_common = ordered_data[:50]
-
+def generate_plot(data, xlabel, file_name, cumulative=True):
     if cumulative:
-        frequencies = list(cumulative_frequencies(most_common))
+        frequencies = list(cumulative_frequencies(data))
         ylabel = u"Frequência acumulada"
     else:
-        frequencies = [sample[1] for sample in most_common]
+        frequencies = [sample[1] for sample in data]
         ylabel = u"Frequência"
 
     pylab.grid(True, color="silver")
     pylab.plot(frequencies)
-    pylab.xticks(range(len(most_common)), [sample[0] for sample in most_common], rotation=90)
-    pylab.xlabel("Tokens")
+    pylab.xticks(range(len(data)), [sample[0] for sample in data], rotation=90)
+    pylab.xlabel(xlabel)
     pylab.ylabel(ylabel)
-    pylab.show()
+
+    pylab.savefig(file_name)
+    pyplot.close()
+
+
+def generate_visualization(data, file_name, cumulative=True):
+    ordered_data = sorted(data.items(), key=operator.itemgetter(1), reverse=True)
+    most_common = ordered_data[:50]
+    generate_plot(most_common, 'Tokens', file_name, cumulative)
+
+
+def slugify(url):
+    return url.split('.')[-2].split('/')[-1][:30] + '...'
+
+
+def generate_visualization_document_size(documents_list, file_name, cumulative=True):
+    data = {}
+    for document in documents_list:
+        sample = {slugify(document.url): document.clean_token_list_size}
+        data.update(sample)
+
+    ordered_data = sorted(data.items(), key=operator.itemgetter(1), reverse=True)
+    top_documents = ordered_data[:50]
+    generate_plot(top_documents, 'Slug dos documentos', file_name, cumulative)
 
 
 if __name__ == '__main__':
@@ -63,9 +83,22 @@ if __name__ == '__main__':
     create_file(file_name='results/vocabulary.txt', content=str(vocabulary.clean_token_list))
     create_file(file_name='results/document_size_in_tokens.txt', content=str(document_size_in_tokens))
     create_file(file_name='results/dbag_of_words.txt', content=str(bag_of_words.generate_bag_of_words()))
-    generate_visualization(vocabulary.clean_token_list, cumulative=True)
-    generate_visualization(vocabulary.clean_token_list, cumulative=False)
 
-    # euclidian_distance = EuclideanDistance(bagOfWords= bag_of_words.bag_of_words)
-    # euclidian_distance.distances_list
+    generate_visualization_document_size(vocabulary.documents,
+                                         file_name='results/distribuicao_tamanho_documentos_em_tokens.png',
+                                         cumulative=False)
+
+    generate_visualization_document_size(vocabulary.documents,
+                                         file_name='results/distribuicao_tamanho_documentos_em_tokens_acumulada.png',
+                                         cumulative=True)
+
+    generate_visualization(vocabulary.clean_token_list,
+                           file_name='results/distribuicao_frequencia_tokens_acumulada.png',
+                           cumulative=True)
+    generate_visualization(vocabulary.clean_token_list,
+                           file_name='results/distribuicao_frequencia_tokens.png',
+                           cumulative=False)
+
+    euclidian_distance = EuclideanDistance(bagOfWords= bag_of_words.bag_of_words)
+    euclidian_distance.distances_list
 
