@@ -20,7 +20,6 @@ class SentenceHelpers:
             .replace('{', '') \
             .replace('}', '') \
             .replace('/', '') \
-            .replace('-', '') \
             .replace('_', '') \
             .replace(':', '') \
             .replace('\n', ' ') \
