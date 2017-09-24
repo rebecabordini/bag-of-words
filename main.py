@@ -24,11 +24,16 @@ def cumulative_frequencies(data):
         yield cf
 
 
-def generate_visualization(data):
+def generate_visualization(data, cumulative=True):
     ordered_data = sorted(data.items(), key=operator.itemgetter(1), reverse=True)
     most_common = ordered_data[:50]
-    frequencies = list(cumulative_frequencies(most_common))
-    ylabel = u"Distribuição acumulada"
+
+    if cumulative:
+        frequencies = list(cumulative_frequencies(most_common))
+        ylabel = u"Frequência acumulada"
+    else:
+        frequencies = [sample[1] for sample in most_common]
+        ylabel = u"Frequência"
 
     pylab.grid(True, color="silver")
     pylab.plot(frequencies)
@@ -58,7 +63,8 @@ if __name__ == '__main__':
     create_file(file_name='results/vocabulary.txt', content=str(vocabulary.clean_token_list))
     create_file(file_name='results/document_size_in_tokens.txt', content=str(document_size_in_tokens))
     create_file(file_name='results/dbag_of_words.txt', content=str(bag_of_words.generate_bag_of_words()))
-    generate_visualization(vocabulary.clean_token_list)
+    generate_visualization(vocabulary.clean_token_list, cumulative=True)
+    generate_visualization(vocabulary.clean_token_list, cumulative=False)
 
     euclidian_distance = EuclideanDistance(bagOfWords= bag_of_words.bag_of_words)
     euclidian_distance.distances_list
