@@ -2,6 +2,8 @@ import json
 
 from models.document import Document
 from models.vocabulary import Vocabulary
+from models.bag_of_words import BagOfWords
+from models.euclidean_distance import EuclideanDistance
 
 
 def create_file(file_name, content):
@@ -24,7 +26,11 @@ if __name__ == '__main__':
         document_size_in_tokens.append(document.clean_token_list_size)
 
     vocabulary = Vocabulary(documents=document_list)
+    bag_of_words = BagOfWords(documents=document_list)
+    euclidian_distance = EuclideanDistance(bagOfWords= bag_of_words.bag_of_words)
 
     create_file(file_name='results/initial_vocabulary.txt', content=str(vocabulary.token_list))
     create_file(file_name='results/vocabulary.txt', content=str(vocabulary.clean_token_list))
     create_file(file_name='results/document_size_in_tokens.txt', content=str(document_size_in_tokens))
+    create_file(file_name='results/dbag_of_words.txt', content=str(bag_of_words.generate_bag_of_words()))
+    euclidian_distance.distances_list
