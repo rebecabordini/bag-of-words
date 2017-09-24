@@ -32,6 +32,6 @@ def generate_results(vocabulary, bag_of_words, document_size_in_tokens):
                            file_name='results/distribuicao_frequencia_tokens.png',
                            cumulative=False)
 
-    euclidian_distance = EuclideanDistance(bagOfWords=bag_of_words.bag_of_words)
-    euclidian_distance.distances_list
+    euclidian_distance = EuclideanDistance(bag_of_words=bag_of_words.bag_of_words)
+    create_file(file_name='results/distances.txt', content=str(euclidian_distance.distances_list))
 

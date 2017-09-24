@@ -1,0 +1,1 @@
+['Documento 1: 0, Documento 2: 1, Dist\xc3\xa2ncia: 926']
