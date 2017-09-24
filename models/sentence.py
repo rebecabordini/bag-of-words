@@ -3,7 +3,7 @@ from stop_words import get_stop_words
 
 
 class SentenceHelpers:
-    stop_words = [unidecode(stop_word) for stop_word in get_stop_words('portuguese')]
+    stop_words = [unidecode(stop_word) for stop_word in get_stop_words('portuguese') + [' ', '']]
 
     @classmethod
     def remove_punctuation_marks(cls, sentence):
@@ -24,7 +24,8 @@ class SentenceHelpers:
             .replace(':', '') \
             .replace('\n', ' ') \
             .replace('\t', ' ') \
-            .replace('"', '')
+            .replace('"', '') \
+
 
     @classmethod
     def clean_token_list(cls, tokens):

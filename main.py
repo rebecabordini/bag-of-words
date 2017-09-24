@@ -66,6 +66,6 @@ if __name__ == '__main__':
     generate_visualization(vocabulary.clean_token_list, cumulative=True)
     generate_visualization(vocabulary.clean_token_list, cumulative=False)
 
-    euclidian_distance = EuclideanDistance(bagOfWords= bag_of_words.bag_of_words)
-    euclidian_distance.distances_list
+    # euclidian_distance = EuclideanDistance(bagOfWords= bag_of_words.bag_of_words)
+    # euclidian_distance.distances_list
 
