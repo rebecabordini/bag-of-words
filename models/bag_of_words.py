@@ -1,5 +1,6 @@
 from sklearn.feature_extraction.text import CountVectorizer
 
+
 class BagOfWords:
     def __init__(self, documents):
         self.documents = documents

@@ -5,6 +5,7 @@ from models.euclidean_distance import EuclideanDistance
 
 
 def create_file(file_name, content):
+
     file = open(file_name, 'w')
     file.write(content)
     file.close()
