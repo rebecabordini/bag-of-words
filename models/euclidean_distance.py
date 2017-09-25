@@ -47,7 +47,10 @@ class EuclideanDistance:
         while True:
             item = self.q.get()
             distance = distance_between_documents(item[0], item[1])
-            self.distances_file.write(str(distance) + '\n')
+            text = 'Distância entre os documentos {idx} e {idy}: {dist}'.format(idx=item[2],
+                                                                                idy=item[3],
+                                                                                dist=distance)
+            self.distances_file.write(text + '\n')
             self.q.task_done()
 
     def calculate_distance(self):
@@ -62,6 +65,6 @@ class EuclideanDistance:
             document_1 = self.bag_of_words[idx]
             for idy in range(idx + 1, len(self.bag_of_words)):
                 document_2 = self.bag_of_words[idy]
-                self.q.put([document_1, document_2])
+                self.q.put([document_1, document_2, idx, idy])
 
         return distances

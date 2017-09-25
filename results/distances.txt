@@ -1,1217 +1,1756 @@
-926
-810
-725
-2391
-1650
-798
-853
-94960
-1146
-990
-1057
-857
-801
-783
-1482
-1486
-1571
-782
-768
-1207
-3357
-1222
-747
-724
-822
-721
-822
-883
-949
-965
-735
-753
-786
-848
-1063
-816
-1188
-1766
-1241
-1541
-793
-2200
-742
-783
-1270
-779
-704
-1299
-846
-820
-684
-867
-819
-719
-757
-712
-1347
-1065
-791
-732
-767
-811
-801
-778
-864
-1078
-3439
-772
-1231
-735
-816
-867
-755
-840
-918
-792
-1501
-821
-781
-894
-699
-2709
-809
-716
-799
-10244
-737
-1075
-781
-961
-755
-711
-1143
-878
-671
-687
-725
-1190
-9138
-1274
-890
-915
-831
-1006
-864
-952
-2911
-855
-741
-944
-905
-1710
-4667
-746
-1131
-4436
-2449
-1232
-782
-778
-689
-3679
-1511
-1571
-694
-719
-1018
-1113
-2130
-797
-1164
-1251
-712
-969
-726
-981
-1552
-4264
-902
-1497
-804
-819
-775
-988
-2005
-745
-1052
-787
-799
-721
-761
-3031
-1118
-777
-1847
-906
-762
-925
-699
-920
-896
-3426
-1762
-1532
-843
-1564
-1007
-1169
-686
-1255
-1260
-1046
-1226
-671
-1818
-835
-1925
-759
-866
-8447
-715
-1979
-1671
-788
-1036
-868
-796
-752
-1011
-785
-1600
-3314
-1212
-2132
-794
-989
-1010
-843
-746
-3596
-733
-706
-1334
-6979
-2157
-10772
-1207
-1078
-840
-1877
-1013
-748
-1672
-766
-783
-892
-742
-929
-3027
-733
-759
-883
-837
-665
-833
-1049
-3356
-848
-1389
-1390
-851
-734
-812
-745
-720
-725
-2743
-819
-717
-831
-803
-789
-832
-967
-2066
-999
-1327
-764
-1823
-824
-795
-1649
-779
-947
-990
-918
-777
-1060
-772
-717
-1296
-988
-9092
-1263
-700
-722
-846
-4020
-700
-1610
-708
-1397
-785
-794
-1101
-2657
-1534
-1019
-733
-1001
-1012
-1913
-1339
-688
-830
-751
-961
-3269
-745
-861
-960
-2527
-805
-1103
-810
-725
-3632
-953
-830
-832
-818
-911
-818
-1045
-855
-4945
-712
-1186
-830
-6103
-710
-1001
-1130
-922
-2093
-731
-617
-2518
-700
-3527
-989
-1065
-771
-798
-960
-1247
-867
-2665
-763
-2099
-4126
-830
-804
-3026
-1345
-942
-708
-943
-725
-749
-663
-3874
-735
-4045
-2977
-1851
-723
-675
-932
-768
-711
-16532
-751
-1059
-1177
-2255
-743
-697
-1363
-939
-4359
-1827
-752
-2065
-988
-3640
-1178
-5233
-734
-798
-2896
-1999
-2240
-1017
-854
-784
-846
-1275
-2545
-845
-772
-943
-731
-803
-1136
-929
-1326
-1077
-720
-807
-762
-1381
-5793
-798
-748
-28923
-826
-1530
-780
-891
-1902
-917
-11218
-842
-863
-746
-889
-1065
-711
-733
-1297
-761
-1121
-753
-1035
-1106
-898
-741
-605
-1081
-697
-783
-973
-783
-1979
-1417
-1097
-977
-810
-1036
-1579
-875
-1952
-653
-960
-1229
-1160
-884
-930
-1433
-795
-703
-980
-974
-880
-835
-1219
-1123
-2532
-709
-1018
-714
-650
-982
-723
-706
-799
-614
-2680
-2035
-892
-4629
-3130
-727
-4254
-852
-1063
-1229
-851
-684
-753
-761
-882
-727
-722
-13494
-24345
-2622
-679
-683
-830
-700
-2174
-2263
-826
-1387
-1320
-1047
-816
-760
-751
-3081
-678
-1099
-972
-735
-1042
-904
-752
-824
-689
-820
-1601
-1132
-716
-1053
-1035
-2964
-3167
-681
-1089
-3276
-782
-719
-833
-2535
-733
-1746
-1078
-681
-792
-695
-1034
-826
-817
-709
-883
-860
-703
-851
-1144
-673
-1044
-747
-1352
-922
-16515
-1877
-1521
-1039
-808
-705
-1624
-703
-1017
-746
-738
-767
-1164
-1028
-718
-847
-751
-724
-1297
-694
-727
-1282
-1313
-918
-976
-2263
-2306
-2028
-735
-866
-821
-757
-1834
-1033
-1649
-2695
-744
-731
-1027
-6873
-821
-626
-796
-1361
-965
-2079
-1790
-795
-10735
-788
-1302
-740
-1885
-712
-753
-943
-722
-734
-729
-745
-1871
-688
-1628
-865
-1555
-807
-771
-783
-806
-1235
-1764
-2802
-647
-1053
-679
-847
-973
-1938
-4195
-811
-2465
-712
-752
-767
-860
-753
-795
-822
-1916
-705
-958
-1123
-809
-764
-724
-866
-681
-2485
-3133
-9821
-2677
-674
-1562
-759
-1878
-574
-700
-757
-786
-967
-2458
-762
-727
-1263
-705
-717
-886
-941
-119443
-746
-1125
-930
-891
-752
-959
-790
-742
-4747
-722
-1676
-793
-1252
-682
-1649
-7739
-855
-2734
-1930
-947
-2521
-1996
-1230
-24630
-736
-1106
-2048
-9481
-1516
-2161
-870
-1169
-940
-777
-883
-722
-4967
-1641
-6099
-3164
-1540
-726
-805
-1409
-2327
-707
-713
-681
-731
-830
-997
-715
-2419
-1288
-883
-673
-783
-812
-1454
-3208
-1438
-921
-11647
-1429
-703
-747
-1348
-717
-843
-749
-853
-1556
-699
-1314
-2660
-717
-987
-787
-992
-803
-808
-708
-2243
-1130
-915
-2550
-836
-1245
-957
-729
-1022
-779
-773
-1965
-21972
-776
-870
-1513
-859
-1260
-927
-3774
-773
-2372
-2849
-703
-1346
-850
-1086
-698
-1535
-1559
-825
-826
-985
-846
-825
-758
-2195
-1026
-4664
-965
-1201
-4792
-875
-916
-734
-862
-2111
-1021
-1064
-1138
-1172
-5943
-943
-971
-760
-1292
-973
-830
-7902
-1465
-758
-841
-902
-1452
-860
-809
-986
-806
-2314
-706
-1806
-707
-5360
-806
-1344
-809
-671
-1871
-871
-723
-715
-877
-1597
-2070
-1282
-771
-802
-659
-2238
-830
-1528
-751
-11493
-899
-861
-787
-717
-665
-678
-816
-800
-808
-1768
-887
-818
-1048
-945
-737
-907
-1536
-1086
-883
-923
-951
-819
-734
-1138
-1568
-977
-1185
-1462
-709
-1527
-823
-2397
-2485
-764
-720
-1212
-873
-1061
-748
-805
-1469
-827
-1927
-857
-1638
-777
-6842
-1823
-2086
-748
-761
-691
-4122
-2664
-685
-708
-993
-902
-889
-1968
-1049
-1008
-1431
-1079
-1466
-752
-751
-923
-2271
-4236
-1077
-1513
-752
-691
-850
-3669
-873
-6288
-2780
-891
-756
-997
-1297
-1149
-799
-1225
-1432
-873
-1569
-959
-1500
-710
-832
-681
-1099
-719
-1059
-687
-737
-3360
-1892
-918
-875
-1217
-927
-888
-981
-1071
-2837
-731
-728
-773
-5705
-673
-1242
-791
-794
-702
-1437
-1052
-6685
-753
-802
-766
-1043
-907
-910
-1206
-813
-1653
-1168
-1869
-745
-980
-763
-933
-793
-720
-738
-761
-784
-993
-757
-795
-941
-1679
-797
-724
-735
-1662
-1727
-762
-850
-867
-736
-671
-786
-767
-2437
-1247
-685
-1004
-754
-1845
-1243
-837
-755
-2466
-715
-1047
-864
-632
-725
-1225
-3290
-1041
-729
-725
-894
-1356
-1047
-725
-676
-1511
-1020
-718
-795
-757
-1327
-787
-722
-1037
-1572
-1435
-814
-745
-917
-914
-1450
-834
-943
-708
-1022
-745
-1108
-763
-785
-829
-875
-1179
-663
-1853
-718
-757
-738
-821
-963
-771
-1170
-807
-799
-776
-685
-717
-841
-851
-2083
-827
-690
-687
-995
-729
-1177
-769
-2885
-792
-929
-806
-702
-727
-2060
-836
-747
-1060
-743
-1516
-866
-860
-850
-711
-799
-748
-2968
-745
-751
-740
-2467
-797
-799
-729
-802
-1248
-1445
-1599
-896
-706
-1150
-816
-813
-789
-799
-1134
-2389
-851
-823
-784
-772
-810
-706
-1088
-730
-780
-840
-974
-649
-731
-826
-910
-4706
-1551
-967
-1299
-702
-862
-3385
-1081
-798
-963
-707
-5995
-1991
-1209
-1654
-860
-791
-1038
-657
-749
-1751
-8375
-1203
-1342
-843
-806
-1596
-2473
-696
-690
-1983
-1030
-975
-1295
-683
-3032
-757
-1960
-905
-738
-850
-1992
-800
-1463
-7205
-1768
-720
-1338
-707
-980
-755
-1234
-638
-777
-765
-844
-762
-3710
-1142
-965
-827
-824
-1301
-1586
-650
-1394
-821
-994
-2081
-749
-1141
-1199
-844
-9754
-1236
-1067
-735
-753
-687
-878
-1185
-713
-1172
-1045
-4186
-812
-850
-1041
-8037
-1208
-974
-719
-719
-703
-3745
-779
-7639
-1461
-963
+Distância entre os documentos 0 e 1: 926
+Distância entre os documentos 0 e 4: 725
+Distância entre os documentos 0 e 2: 810
+Distância entre os documentos 0 e 5: 798
+Distância entre os documentos 0 e 3: 2391
+Distância entre os documentos 0 e 6: 1650
+Distância entre os documentos 0 e 8: 1146
+Distância entre os documentos 0 e 9: 94960
+Distância entre os documentos 0 e 11: 857
+Distância entre os documentos 0 e 7: 853
+Distância entre os documentos 0 e 12: 1057
+Distância entre os documentos 0 e 10: 990
+Distância entre os documentos 0 e 14: 1482
+Distância entre os documentos 0 e 13: 801
+Distância entre os documentos 0 e 15: 783
+Distância entre os documentos 0 e 16: 1486
+Distância entre os documentos 0 e 17: 1571
+Distância entre os documentos 0 e 18: 768
+Distância entre os documentos 0 e 19: 3357
+Distância entre os documentos 0 e 21: 1207
+Distância entre os documentos 0 e 22: 724
+Distância entre os documentos 0 e 23: 747
+Distância entre os documentos 0 e 24: 721
+Distância entre os documentos 0 e 20: 782
+Distância entre os documentos 0 e 26: 822
+Distância entre os documentos 0 e 27: 883
+Distância entre os documentos 0 e 25: 1222
+Distância entre os documentos 0 e 30: 965
+Distância entre os documentos 0 e 28: 822
+Distância entre os documentos 0 e 29: 949
+Distância entre os documentos 0 e 31: 735
+Distância entre os documentos 0 e 32: 1063
+Distância entre os documentos 0 e 35: 848
+Distância entre os documentos 0 e 33: 753
+Distância entre os documentos 0 e 34: 786
+Distância entre os documentos 0 e 37: 1766
+Distância entre os documentos 0 e 36: 816
+Distância entre os documentos 0 e 38: 1188
+Distância entre os documentos 0 e 39: 1541
+Distância entre os documentos 0 e 40: 1241
+Distância entre os documentos 0 e 42: 793
+Distância entre os documentos 0 e 41: 742
+Distância entre os documentos 0 e 43: 2200
+Distância entre os documentos 0 e 44: 783
+Distância entre os documentos 0 e 45: 1270
+Distância entre os documentos 0 e 47: 779
+Distância entre os documentos 0 e 46: 704
+Distância entre os documentos 0 e 48: 1299
+Distância entre os documentos 0 e 50: 820
+Distância entre os documentos 0 e 49: 846
+Distância entre os documentos 0 e 51: 684
+Distância entre os documentos 0 e 52: 867
+Distância entre os documentos 0 e 53: 757
+Distância entre os documentos 0 e 54: 819
+Distância entre os documentos 0 e 55: 719
+Distância entre os documentos 0 e 56: 712
+Distância entre os documentos 0 e 58: 1065
+Distância entre os documentos 0 e 57: 1347
+Distância entre os documentos 0 e 59: 732
+Distância entre os documentos 0 e 60: 791
+Distância entre os documentos 0 e 61: 767
+Distância entre os documentos 0 e 62: 864
+Distância entre os documentos 0 e 63: 801
+Distância entre os documentos 0 e 64: 811
+Distância entre os documentos 0 e 65: 772
+Distância entre os documentos 0 e 66: 778
+Distância entre os documentos 0 e 67: 1078
+Distância entre os documentos 0 e 68: 3439
+Distância entre os documentos 0 e 70: 840
+Distância entre os documentos 0 e 69: 1231
+Distância entre os documentos 0 e 72: 816
+Distância entre os documentos 0 e 73: 755
+Distância entre os documentos 0 e 74: 867
+Distância entre os documentos 0 e 75: 821
+Distância entre os documentos 0 e 76: 918
+Distância entre os documentos 0 e 71: 735
+Distância entre os documentos 0 e 77: 1501
+Distância entre os documentos 0 e 79: 781
+Distância entre os documentos 0 e 80: 2709
+Distância entre os documentos 0 e 78: 792
+Distância entre os documentos 0 e 81: 699
+Distância entre os documentos 0 e 82: 894
+Distância entre os documentos 0 e 83: 809
+Distância entre os documentos 0 e 84: 799
+Distância entre os documentos 0 e 86: 10244
+Distância entre os documentos 0 e 88: 961
+Distância entre os documentos 0 e 87: 737
+Distância entre os documentos 0 e 85: 716
+Distância entre os documentos 0 e 89: 781
+Distância entre os documentos 0 e 90: 1075
+Distância entre os documentos 0 e 91: 755
+Distância entre os documentos 0 e 93: 711
+Distância entre os documentos 0 e 92: 1143
+Distância entre os documentos 0 e 94: 878
+Distância entre os documentos 0 e 95: 687
+Distância entre os documentos 0 e 96: 671
+Distância entre os documentos 0 e 97: 1190
+Distância entre os documentos 0 e 98: 725
+Distância entre os documentos 0 e 99: 9138
+Distância entre os documentos 0 e 100: 915
+Distância entre os documentos 0 e 101: 890
+Distância entre os documentos 0 e 103: 831
+Distância entre os documentos 0 e 102: 1274
+Distância entre os documentos 0 e 104: 1006
+Distância entre os documentos 0 e 105: 864
+Distância entre os documentos 0 e 107: 741
+Distância entre os documentos 0 e 110: 855
+Distância entre os documentos 0 e 108: 952
+Distância entre os documentos 0 e 111: 1710
+Distância entre os documentos 0 e 109: 4667
+Distância entre os documentos 0 e 106: 2911
+Distância entre os documentos 0 e 112: 905
+Distância entre os documentos 0 e 113: 944
+Distância entre os documentos 0 e 114: 746
+Distância entre os documentos 0 e 115: 4436
+Distância entre os documentos 0 e 117: 2449
+Distância entre os documentos 0 e 116: 1131
+Distância entre os documentos 0 e 118: 1232
+Distância entre os documentos 0 e 121: 3679
+Distância entre os documentos 0 e 119: 782
+Distância entre os documentos 0 e 120: 778
+Distância entre os documentos 0 e 122: 689
+Distância entre os documentos 0 e 123: 1511
+Distância entre os documentos 0 e 124: 1571
+Distância entre os documentos 0 e 125: 694
+Distância entre os documentos 0 e 127: 719
+Distância entre os documentos 0 e 126: 1018
+Distância entre os documentos 0 e 128: 1113
+Distância entre os documentos 0 e 129: 2130
+Distância entre os documentos 0 e 130: 797
+Distância entre os documentos 0 e 131: 1164
+Distância entre os documentos 0 e 132: 726
+Distância entre os documentos 0 e 134: 1251
+Distância entre os documentos 0 e 133: 712
+Distância entre os documentos 0 e 135: 981
+Distância entre os documentos 0 e 136: 969
+Distância entre os documentos 0 e 138: 902
+Distância entre os documentos 0 e 139: 4264
+Distância entre os documentos 0 e 137: 1552
+Distância entre os documentos 0 e 140: 1497
+Distância entre os documentos 0 e 141: 804
+Distância entre os documentos 0 e 143: 775
+Distância entre os documentos 0 e 142: 819
+Distância entre os documentos 0 e 145: 745
+Distância entre os documentos 0 e 144: 988
+Distância entre os documentos 0 e 147: 1052
+Distância entre os documentos 0 e 146: 2005
+Distância entre os documentos 0 e 148: 787
+Distância entre os documentos 0 e 149: 761
+Distância entre os documentos 0 e 150: 799
+Distância entre os documentos 0 e 151: 721
+Distância entre os documentos 0 e 152: 1118
+Distância entre os documentos 0 e 153: 3031
+Distância entre os documentos 0 e 154: 1847
+Distância entre os documentos 0 e 156: 906
+Distância entre os documentos 0 e 155: 777
+Distância entre os documentos 0 e 159: 699
+Distância entre os documentos 0 e 157: 762
+Distância entre os documentos 0 e 160: 920
+Distância entre os documentos 0 e 158: 925
+Distância entre os documentos 0 e 162: 896
+Distância entre os documentos 0 e 161: 3426
+Distância entre os documentos 0 e 163: 1762
+Distância entre os documentos 0 e 165: 1564
+Distância entre os documentos 0 e 164: 1532
+Distância entre os documentos 0 e 166: 843
+Distância entre os documentos 0 e 167: 1169
+Distância entre os documentos 0 e 168: 1007
+Distância entre os documentos 0 e 169: 686
+Distância entre os documentos 0 e 170: 1255
+Distância entre os documentos 0 e 171: 1260
+Distância entre os documentos 0 e 172: 1046
+Distância entre os documentos 0 e 174: 835
+Distância entre os documentos 0 e 173: 1226
+Distância entre os documentos 0 e 175: 671
+Distância entre os documentos 0 e 176: 1818
+Distância entre os documentos 0 e 179: 715
+Distância entre os documentos 0 e 177: 759
+Distância entre os documentos 0 e 178: 866
+Distância entre os documentos 0 e 181: 8447
+Distância entre os documentos 0 e 182: 1036
+Distância entre os documentos 0 e 180: 1925
+Distância entre os documentos 0 e 183: 1671
+Distância entre os documentos 0 e 184: 1979
+Distância entre os documentos 0 e 185: 788
+Distância entre os documentos 0 e 186: 796
+Distância entre os documentos 0 e 187: 868
+Distância entre os documentos 0 e 188: 752
+Distância entre os documentos 0 e 189: 1011
+Distância entre os documentos 0 e 190: 785
+Distância entre os documentos 0 e 191: 1600
+Distância entre os documentos 0 e 194: 2132
+Distância entre os documentos 0 e 192: 3314
+Distância entre os documentos 0 e 193: 1212
+Distância entre os documentos 0 e 197: 1010
+Distância entre os documentos 0 e 195: 989
+Distância entre os documentos 0 e 196: 794
+Distância entre os documentos 0 e 198: 746
+Distância entre os documentos 0 e 199: 3596
+Distância entre os documentos 0 e 201: 843
+Distância entre os documentos 0 e 200: 733
+Distância entre os documentos 0 e 202: 706
+Distância entre os documentos 0 e 203: 6979
+Distância entre os documentos 0 e 205: 1334
+Distância entre os documentos 0 e 204: 1078
+Distância entre os documentos 0 e 206: 1207
+Distância entre os documentos 0 e 207: 2157
+Distância entre os documentos 0 e 208: 10772
+Distância entre os documentos 0 e 209: 1877
+Distância entre os documentos 0 e 211: 1013
+Distância entre os documentos 0 e 212: 1672
+Distância entre os documentos 0 e 213: 766
+Distância entre os documentos 0 e 210: 840
+Distância entre os documentos 0 e 214: 748
+Distância entre os documentos 0 e 216: 3027
+Distância entre os documentos 0 e 217: 892
+Distância entre os documentos 0 e 215: 783
+Distância entre os documentos 0 e 218: 742
+Distância entre os documentos 0 e 220: 759
+Distância entre os documentos 0 e 222: 883
+Distância entre os documentos 0 e 224: 837
+Distância entre os documentos 0 e 223: 665
+Distância entre os documentos 0 e 221: 733
+Distância entre os documentos 0 e 219: 929
+Distância entre os documentos 0 e 226: 3356
+Distância entre os documentos 0 e 227: 833
+Distância entre os documentos 0 e 225: 1049
+Distância entre os documentos 0 e 228: 848
+Distância entre os documentos 0 e 229: 851
+Distância entre os documentos 0 e 230: 1389
+Distância entre os documentos 0 e 231: 734
+Distância entre os documentos 0 e 232: 1390
+Distância entre os documentos 0 e 233: 2743
+Distância entre os documentos 0 e 236: 745
+Distância entre os documentos 0 e 234: 720
+Distância entre os documentos 0 e 237: 725
+Distância entre os documentos 0 e 239: 803
+Distância entre os documentos 0 e 235: 812
+Distância entre os documentos 0 e 238: 819
+Distância entre os documentos 0 e 240: 831
+Distância entre os documentos 0 e 241: 717
+Distância entre os documentos 0 e 242: 967
+Distância entre os documentos 0 e 243: 789
+Distância entre os documentos 0 e 245: 999
+Distância entre os documentos 0 e 244: 832
+Distância entre os documentos 0 e 246: 2066
+Distância entre os documentos 0 e 248: 1327
+Distância entre os documentos 0 e 249: 1823
+Distância entre os documentos 0 e 247: 764
+Distância entre os documentos 0 e 252: 1649
+Distância entre os documentos 0 e 250: 824
+Distância entre os documentos 0 e 251: 795
+Distância entre os documentos 0 e 253: 779
+Distância entre os documentos 0 e 254: 990
+Distância entre os documentos 0 e 255: 918
+Distância entre os documentos 0 e 257: 777
+Distância entre os documentos 0 e 256: 947
+Distância entre os documentos 0 e 258: 1060
+Distância entre os documentos 0 e 259: 772
+Distância entre os documentos 0 e 260: 717
+Distância entre os documentos 0 e 261: 988
+Distância entre os documentos 0 e 262: 1296
+Distância entre os documentos 0 e 263: 9092
+Distância entre os documentos 0 e 264: 700
+Distância entre os documentos 0 e 265: 1263
+Distância entre os documentos 0 e 267: 722
+Distância entre os documentos 0 e 266: 4020
+Distância entre os documentos 0 e 268: 846
+Distância entre os documentos 0 e 269: 700
+Distância entre os documentos 0 e 272: 1397
+Distância entre os documentos 0 e 270: 1610
+Distância entre os documentos 0 e 271: 708
+Distância entre os documentos 0 e 273: 785
+Distância entre os documentos 0 e 274: 794
+Distância entre os documentos 0 e 275: 1101
+Distância entre os documentos 0 e 276: 1019
+Distância entre os documentos 0 e 277: 733
+Distância entre os documentos 0 e 278: 2657
+Distância entre os documentos 0 e 279: 1534
+Distância entre os documentos 0 e 280: 1001
+Distância entre os documentos 0 e 281: 1012
+Distância entre os documentos 0 e 282: 1913
+Distância entre os documentos 0 e 283: 688
+Distância entre os documentos 0 e 284: 1339
+Distância entre os documentos 0 e 285: 830
+Distância entre os documentos 0 e 288: 745
+Distância entre os documentos 0 e 287: 751
+Distância entre os documentos 0 e 289: 3269
+Distância entre os documentos 0 e 286: 961
+Distância entre os documentos 0 e 291: 2527
+Distância entre os documentos 0 e 290: 861
+Distância entre os documentos 0 e 292: 960
+Distância entre os documentos 0 e 293: 805
+Distância entre os documentos 0 e 295: 810
+Distância entre os documentos 0 e 296: 3632
+Distância entre os documentos 0 e 294: 1103
+Distância entre os documentos 0 e 297: 725
+Distância entre os documentos 0 e 298: 953
+Distância entre os documentos 0 e 299: 830
+Distância entre os documentos 0 e 300: 832
+Distância entre os documentos 0 e 301: 911
+Distância entre os documentos 0 e 302: 818
+Distância entre os documentos 0 e 303: 818
+Distância entre os documentos 0 e 304: 1045
+Distância entre os documentos 0 e 305: 712
+Distância entre os documentos 0 e 306: 855
+Distância entre os documentos 0 e 307: 1186
+Distância entre os documentos 0 e 308: 4945
+Distância entre os documentos 0 e 309: 830
+Distância entre os documentos 0 e 310: 1001
+Distância entre os documentos 0 e 311: 710
+Distância entre os documentos 0 e 313: 2093
+Distância entre os documentos 0 e 312: 6103
+Distância entre os documentos 0 e 315: 922
+Distância entre os documentos 0 e 314: 1130
+Distância entre os documentos 0 e 316: 731
+Distância entre os documentos 0 e 317: 617
+Distância entre os documentos 0 e 318: 2518
+Distância entre os documentos 0 e 320: 3527
+Distância entre os documentos 0 e 319: 700
+Distância entre os documentos 0 e 321: 989
+Distância entre os documentos 0 e 322: 771
+Distância entre os documentos 0 e 323: 1065
+Distância entre os documentos 0 e 325: 1247
+Distância entre os documentos 0 e 326: 867
+Distância entre os documentos 0 e 327: 960
+Distância entre os documentos 0 e 329: 4126
+Distância entre os documentos 0 e 324: 798
+Distância entre os documentos 0 e 330: 2099
+Distância entre os documentos 0 e 328: 2665
+Distância entre os documentos 0 e 331: 763
+Distância entre os documentos 0 e 332: 830
+Distância entre os documentos 0 e 333: 3026
+Distância entre os documentos 0 e 334: 804
+Distância entre os documentos 0 e 335: 708
+Distância entre os documentos 0 e 336: 942
+Distância entre os documentos 0 e 337: 1345
+Distância entre os documentos 0 e 338: 725
+Distância entre os documentos 0 e 339: 943
+Distância entre os documentos 0 e 341: 663
+Distância entre os documentos 0 e 340: 749
+Distância entre os documentos 0 e 342: 3874
+Distância entre os documentos 0 e 343: 4045
+Distância entre os documentos 0 e 344: 735
+Distância entre os documentos 0 e 345: 1851
+Distância entre os documentos 0 e 346: 2977
+Distância entre os documentos 0 e 347: 723
+Distância entre os documentos 0 e 349: 932
+Distância entre os documentos 0 e 348: 675
+Distância entre os documentos 0 e 351: 768
+Distância entre os documentos 0 e 350: 711
+Distância entre os documentos 0 e 352: 16532
+Distância entre os documentos 0 e 353: 751
+Distância entre os documentos 0 e 354: 1059
+Distância entre os documentos 0 e 355: 1177
+Distância entre os documentos 0 e 356: 743
+Distância entre os documentos 0 e 357: 2255
+Distância entre os documentos 0 e 358: 697
+Distância entre os documentos 0 e 361: 4359
+Distância entre os documentos 0 e 359: 939
+Distância entre os documentos 0 e 360: 1363
+Distância entre os documentos 0 e 363: 1827
+Distância entre os documentos 0 e 362: 988
+Distância entre os documentos 0 e 364: 752
+Distância entre os documentos 0 e 365: 2065
+Distância entre os documentos 0 e 366: 3640
+Distância entre os documentos 0 e 367: 5233
+Distância entre os documentos 0 e 368: 1178
+Distância entre os documentos 0 e 369: 734
+Distância entre os documentos 0 e 370: 798
+Distância entre os documentos 0 e 371: 1999
+Distância entre os documentos 0 e 372: 1017
+Distância entre os documentos 0 e 374: 2896
+Distância entre os documentos 0 e 373: 2240
+Distância entre os documentos 0 e 376: 784
+Distância entre os documentos 0 e 375: 854
+Distância entre os documentos 0 e 377: 2545
+Distância entre os documentos 0 e 380: 845
+Distância entre os documentos 0 e 379: 1275
+Distância entre os documentos 0 e 378: 846
+Distância entre os documentos 0 e 381: 803
+Distância entre os documentos 0 e 382: 772
+Distância entre os documentos 0 e 383: 943
+Distância entre os documentos 0 e 384: 731
+Distância entre os documentos 0 e 385: 1136
+Distância entre os documentos 0 e 386: 1326
+Distância entre os documentos 0 e 387: 929
+Distância entre os documentos 0 e 389: 1077
+Distância entre os documentos 0 e 388: 720
+Distância entre os documentos 0 e 390: 807
+Distância entre os documentos 0 e 391: 762
+Distância entre os documentos 0 e 392: 1381
+Distância entre os documentos 0 e 393: 826
+Distância entre os documentos 0 e 395: 748
+Distância entre os documentos 0 e 394: 5793
+Distância entre os documentos 0 e 396: 798
+Distância entre os documentos 0 e 398: 28923
+Distância entre os documentos 0 e 397: 780
+Distância entre os documentos 0 e 399: 1902
+Distância entre os documentos 0 e 401: 11218
+Distância entre os documentos 0 e 400: 1530
+Distância entre os documentos 0 e 405: 917
+Distância entre os documentos 0 e 402: 889
+Distância entre os documentos 0 e 404: 863
+Distância entre os documentos 0 e 403: 891
+Distância entre os documentos 0 e 407: 746
+Distância entre os documentos 0 e 406: 842
+Distância entre os documentos 0 e 408: 1065
+Distância entre os documentos 0 e 409: 733
+Distância entre os documentos 0 e 410: 1297
+Distância entre os documentos 0 e 412: 761
+Distância entre os documentos 0 e 411: 711
+Distância entre os documentos 0 e 415: 1035
+Distância entre os documentos 0 e 413: 1121
+Distância entre os documentos 0 e 414: 753
+Distância entre os documentos 0 e 416: 741
+Distância entre os documentos 0 e 417: 605
+Distância entre os documentos 0 e 418: 1106
+Distância entre os documentos 0 e 420: 898
+Distância entre os documentos 0 e 419: 1081
+Distância entre os documentos 0 e 421: 697
+Distância entre os documentos 0 e 422: 1979
+Distância entre os documentos 0 e 424: 1417
+Distância entre os documentos 0 e 423: 783
+Distância entre os documentos 0 e 426: 973
+Distância entre os documentos 0 e 427: 783
+Distância entre os documentos 0 e 428: 1097
+Distância entre os documentos 0 e 425: 977
+Distância entre os documentos 0 e 429: 810
+Distância entre os documentos 0 e 431: 653
+Distância entre os documentos 0 e 433: 1952
+Distância entre os documentos 0 e 432: 1579
+Distância entre os documentos 0 e 430: 1036
+Distância entre os documentos 0 e 434: 960
+Distância entre os documentos 0 e 435: 875
+Distância entre os documentos 0 e 436: 1229
+Distância entre os documentos 0 e 439: 930
+Distância entre os documentos 0 e 438: 884
+Distância entre os documentos 0 e 440: 1433
+Distância entre os documentos 0 e 437: 1160
+Distância entre os documentos 0 e 442: 703
+Distância entre os documentos 0 e 441: 795
+Distância entre os documentos 0 e 444: 880
+Distância entre os documentos 0 e 443: 980
+Distância entre os documentos 0 e 445: 835
+Distância entre os documentos 0 e 446: 974
+Distância entre os documentos 0 e 448: 1123
+Distância entre os documentos 0 e 447: 1219
+Distância entre os documentos 0 e 451: 709
+Distância entre os documentos 0 e 450: 1018
+Distância entre os documentos 0 e 449: 2532
+Distância entre os documentos 0 e 452: 714
+Distância entre os documentos 0 e 453: 723
+Distância entre os documentos 0 e 455: 706
+Distância entre os documentos 0 e 454: 982
+Distância entre os documentos 0 e 457: 614
+Distância entre os documentos 0 e 456: 650
+Distância entre os documentos 0 e 458: 799
+Distância entre os documentos 0 e 460: 2035
+Distância entre os documentos 0 e 461: 892
+Distância entre os documentos 0 e 459: 2680
+Distância entre os documentos 0 e 462: 4629
+Distância entre os documentos 0 e 465: 727
+Distância entre os documentos 0 e 463: 3130
+Distância entre os documentos 0 e 464: 4254
+Distância entre os documentos 0 e 466: 852
+Distância entre os documentos 0 e 467: 851
+Distância entre os documentos 0 e 468: 1063
+Distância entre os documentos 0 e 469: 1229
+Distância entre os documentos 0 e 472: 753
+Distância entre os documentos 0 e 471: 722
+Distância entre os documentos 0 e 470: 684
+Distância entre os documentos 0 e 473: 761
+Distância entre os documentos 0 e 474: 882
+Distância entre os documentos 0 e 475: 727
+Distância entre os documentos 0 e 477: 13494
+Distância entre os documentos 0 e 480: 2622
+Distância entre os documentos 0 e 481: 679
+Distância entre os documentos 0 e 478: 830
+Distância entre os documentos 0 e 476: 24345
+Distância entre os documentos 0 e 482: 700
+Distância entre os documentos 0 e 479: 683
+Distância entre os documentos 0 e 483: 826
+Distância entre os documentos 0 e 484: 2263
+Distância entre os documentos 0 e 486: 1387
+Distância entre os documentos 0 e 487: 1320
+Distância entre os documentos 0 e 485: 2174
+Distância entre os documentos 0 e 488: 1047
+Distância entre os documentos 0 e 491: 760
+Distância entre os documentos 0 e 490: 751
+Distância entre os documentos 0 e 493: 678
+Distância entre os documentos 0 e 492: 3081
+Distância entre os documentos 0 e 489: 816
+Distância entre os documentos 0 e 494: 1099
+Distância entre os documentos 0 e 495: 735
+Distância entre os documentos 0 e 496: 1042
+Distância entre os documentos 0 e 497: 972
+Distância entre os documentos 0 e 498: 904
+Distância entre os documentos 0 e 499: 752
+Distância entre os documentos 0 e 500: 824
+Distância entre os documentos 0 e 501: 689
+Distância entre os documentos 0 e 502: 820
+Distância entre os documentos 0 e 504: 1132
+Distância entre os documentos 0 e 503: 1601
+Distância entre os documentos 0 e 506: 1053
+Distância entre os documentos 0 e 507: 1035
+Distância entre os documentos 0 e 505: 716
+Distância entre os documentos 0 e 508: 2964
+Distância entre os documentos 0 e 509: 3167
+Distância entre os documentos 0 e 510: 681
+Distância entre os documentos 0 e 511: 1089
+Distância entre os documentos 0 e 513: 782
+Distância entre os documentos 0 e 512: 719
+Distância entre os documentos 0 e 514: 3276
+Distância entre os documentos 0 e 515: 2535
+Distância entre os documentos 0 e 518: 733
+Distância entre os documentos 0 e 517: 1746
+Distância entre os documentos 0 e 516: 833
+Distância entre os documentos 0 e 519: 681
+Distância entre os documentos 0 e 521: 792
+Distância entre os documentos 0 e 520: 1078
+Distância entre os documentos 0 e 522: 1034
+Distância entre os documentos 0 e 523: 695
+Distância entre os documentos 0 e 524: 826
+Distância entre os documentos 0 e 525: 883
+Distância entre os documentos 0 e 526: 709
+Distância entre os documentos 0 e 527: 817
+Distância entre os documentos 0 e 528: 703
+Distância entre os documentos 0 e 529: 851
+Distância entre os documentos 0 e 530: 860
+Distância entre os documentos 0 e 531: 1144
+Distância entre os documentos 0 e 532: 673
+Distância entre os documentos 0 e 535: 1352
+Distância entre os documentos 0 e 534: 747
+Distância entre os documentos 0 e 533: 1044
+Distância entre os documentos 0 e 536: 16515
+Distância entre os documentos 0 e 537: 922
+Distância entre os documentos 0 e 538: 1521
+Distância entre os documentos 0 e 539: 1877
+Distância entre os documentos 0 e 540: 1039
+Distância entre os documentos 0 e 543: 808
+Distância entre os documentos 0 e 544: 703
+Distância entre os documentos 0 e 542: 705
+Distância entre os documentos 0 e 541: 1624
+Distância entre os documentos 0 e 545: 1017
+Distância entre os documentos 0 e 546: 738
+Distância entre os documentos 0 e 547: 746
+Distância entre os documentos 0 e 548: 767
+Distância entre os documentos 0 e 549: 1164
+Distância entre os documentos 0 e 550: 1028
+Distância entre os documentos 0 e 551: 718
+Distância entre os documentos 0 e 553: 847
+Distância entre os documentos 0 e 552: 751
+Distância entre os documentos 0 e 555: 1297
+Distância entre os documentos 0 e 554: 724
+Distância entre os documentos 0 e 557: 727
+Distância entre os documentos 0 e 556: 694
+Distância entre os documentos 0 e 558: 1282
+Distância entre os documentos 0 e 559: 1313
+Distância entre os documentos 0 e 561: 918
+Distância entre os documentos 0 e 560: 976
+Distância entre os documentos 0 e 563: 2306
+Distância entre os documentos 0 e 562: 2028
+Distância entre os documentos 0 e 564: 2263
+Distância entre os documentos 0 e 565: 757
+Distância entre os documentos 0 e 566: 866
+Distância entre os documentos 0 e 568: 821
+Distância entre os documentos 0 e 567: 735
+Distância entre os documentos 0 e 569: 1033
+Distância entre os documentos 0 e 570: 1649
+Distância entre os documentos 0 e 571: 1834
+Distância entre os documentos 0 e 572: 2695
+Distância entre os documentos 0 e 573: 744
+Distância entre os documentos 0 e 574: 731
+Distância entre os documentos 0 e 576: 6873
+Distância entre os documentos 0 e 575: 821
+Distância entre os documentos 0 e 577: 1027
+Distância entre os documentos 0 e 578: 626
+Distância entre os documentos 0 e 579: 2079
+Distância entre os documentos 0 e 580: 1361
+Distância entre os documentos 0 e 581: 965
+Distância entre os documentos 0 e 584: 1790
+Distância entre os documentos 0 e 582: 796
+Distância entre os documentos 0 e 586: 788
+Distância entre os documentos 0 e 583: 795
+Distância entre os documentos 0 e 585: 1302
+Distância entre os documentos 0 e 587: 10735
+Distância entre os documentos 0 e 588: 1885
+Distância entre os documentos 0 e 589: 712
+Distância entre os documentos 0 e 590: 740
+Distância entre os documentos 0 e 591: 753
+Distância entre os documentos 0 e 592: 943
+Distância entre os documentos 0 e 593: 722
+Distância entre os documentos 0 e 594: 734
+Distância entre os documentos 0 e 595: 729
+Distância entre os documentos 0 e 597: 865
+Distância entre os documentos 0 e 596: 745
+Distância entre os documentos 0 e 598: 1871
+Distância entre os documentos 0 e 599: 688
+Distância entre os documentos 0 e 600: 1555
+Distância entre os documentos 0 e 602: 783
+Distância entre os documentos 0 e 603: 771
+Distância entre os documentos 0 e 601: 1628
+Distância entre os documentos 0 e 604: 807
+Distância entre os documentos 0 e 606: 1764
+Distância entre os documentos 0 e 605: 806
+Distância entre os documentos 0 e 608: 2802
+Distância entre os documentos 0 e 610: 1053
+Distância entre os documentos 0 e 607: 1235
+Distância entre os documentos 0 e 609: 973
+Distância entre os documentos 0 e 612: 679
+Distância entre os documentos 0 e 611: 647
+Distância entre os documentos 0 e 614: 4195
+Distância entre os documentos 0 e 616: 811
+Distância entre os documentos 0 e 613: 847
+Distância entre os documentos 0 e 618: 2465
+Distância entre os documentos 0 e 617: 752
+Distância entre os documentos 0 e 615: 1938
+Distância entre os documentos 0 e 619: 712
+Distância entre os documentos 0 e 620: 767
+Distância entre os documentos 0 e 621: 860
+Distância entre os documentos 0 e 622: 753
+Distância entre os documentos 0 e 623: 795
+Distância entre os documentos 0 e 624: 1916
+Distância entre os documentos 0 e 625: 822
+Distância entre os documentos 0 e 626: 705
+Distância entre os documentos 0 e 627: 958
+Distância entre os documentos 0 e 628: 1123
+Distância entre os documentos 0 e 629: 809
+Distância entre os documentos 0 e 630: 681
+Distância entre os documentos 0 e 631: 764
+Distância entre os documentos 0 e 632: 866
+Distância entre os documentos 0 e 633: 724
+Distância entre os documentos 0 e 634: 2485
+Distância entre os documentos 0 e 635: 3133
+Distância entre os documentos 0 e 636: 674
+Distância entre os documentos 0 e 637: 9821
+Distância entre os documentos 0 e 639: 2677
+Distância entre os documentos 0 e 638: 1562
+Distância entre os documentos 0 e 640: 759
+Distância entre os documentos 0 e 641: 1878
+Distância entre os documentos 0 e 642: 574
+Distância entre os documentos 0 e 643: 786
+Distância entre os documentos 0 e 644: 700
+Distância entre os documentos 0 e 645: 757
+Distância entre os documentos 0 e 647: 762
+Distância entre os documentos 0 e 646: 967
+Distância entre os documentos 0 e 648: 2458
+Distância entre os documentos 0 e 649: 727
+Distância entre os documentos 0 e 650: 1263
+Distância entre os documentos 0 e 651: 705
+Distância entre os documentos 0 e 652: 717
+Distância entre os documentos 0 e 655: 941
+Distância entre os documentos 0 e 653: 746
+Distância entre os documentos 0 e 656: 119443
+Distância entre os documentos 0 e 654: 886
+Distância entre os documentos 0 e 657: 1125
+Distância entre os documentos 0 e 660: 790
+Distância entre os documentos 0 e 659: 891
+Distância entre os documentos 0 e 661: 752
+Distância entre os documentos 0 e 662: 959
+Distância entre os documentos 0 e 663: 742
+Distância entre os documentos 0 e 664: 4747
+Distância entre os documentos 0 e 658: 930
+Distância entre os documentos 0 e 665: 793
+Distância entre os documentos 0 e 666: 722
+Distância entre os documentos 0 e 667: 1252
+Distância entre os documentos 0 e 668: 1676
+Distância entre os documentos 0 e 669: 682
+Distância entre os documentos 0 e 670: 1649
+Distância entre os documentos 0 e 671: 7739
+Distância entre os documentos 0 e 672: 855
+Distância entre os documentos 0 e 673: 2734
+Distância entre os documentos 0 e 674: 1930
+Distância entre os documentos 0 e 675: 947
+Distância entre os documentos 0 e 677: 1996
+Distância entre os documentos 0 e 678: 736
+Distância entre os documentos 0 e 676: 2521
+Distância entre os documentos 0 e 679: 1230
+Distância entre os documentos 0 e 680: 1106
+Distância entre os documentos 0 e 682: 2048
+Distância entre os documentos 0 e 681: 24630
+Distância entre os documentos 0 e 683: 9481
+Distância entre os documentos 0 e 684: 1516
+Distância entre os documentos 0 e 685: 2161
+Distância entre os documentos 0 e 686: 870
+Distância entre os documentos 0 e 687: 1169
+Distância entre os documentos 0 e 688: 940
+Distância entre os documentos 0 e 689: 777
+Distância entre os documentos 0 e 690: 883
+Distância entre os documentos 0 e 691: 722
+Distância entre os documentos 0 e 692: 1641
+Distância entre os documentos 0 e 694: 1540
+Distância entre os documentos 0 e 693: 4967
+Distância entre os documentos 0 e 695: 6099
+Distância entre os documentos 0 e 696: 726
+Distância entre os documentos 0 e 697: 3164
+Distância entre os documentos 0 e 698: 805
+Distância entre os documentos 0 e 699: 1409
+Distância entre os documentos 0 e 700: 707
+Distância entre os documentos 0 e 703: 731
+Distância entre os documentos 0 e 704: 681
+Distância entre os documentos 0 e 701: 713
+Distância entre os documentos 0 e 702: 2327
+Distância entre os documentos 0 e 706: 997
+Distância entre os documentos 0 e 705: 830
+Distância entre os documentos 0 e 707: 715
+Distância entre os documentos 0 e 708: 1288
+Distância entre os documentos 0 e 710: 783
+Distância entre os documentos 0 e 709: 2419
+Distância entre os documentos 0 e 711: 883
+Distância entre os documentos 0 e 714: 921
+Distância entre os documentos 0 e 713: 812
+Distância entre os documentos 0 e 715: 3208
+Distância entre os documentos 0 e 712: 673
+Distância entre os documentos 0 e 716: 1438
+Distância entre os documentos 0 e 717: 1454
+Distância entre os documentos 0 e 718: 703
+Distância entre os documentos 0 e 720: 1429
+Distância entre os documentos 0 e 719: 11647
+Distância entre os documentos 0 e 721: 747
+Distância entre os documentos 0 e 723: 853
+Distância entre os documentos 0 e 722: 1348
+Distância entre os documentos 0 e 725: 843
+Distância entre os documentos 0 e 726: 749
+Distância entre os documentos 0 e 724: 717
+Distância entre os documentos 0 e 727: 2660
+Distância entre os documentos 0 e 728: 1556
+Distância entre os documentos 0 e 729: 699
+Distância entre os documentos 0 e 731: 717
+Distância entre os documentos 0 e 730: 1314
+Distância entre os documentos 0 e 733: 992
+Distância entre os documentos 0 e 732: 987
+Distância entre os documentos 0 e 734: 803
+Distância entre os documentos 0 e 735: 787
+Distância entre os documentos 0 e 736: 808
+Distância entre os documentos 0 e 737: 2243
+Distância entre os documentos 0 e 738: 915
+Distância entre os documentos 0 e 739: 708
+Distância entre os documentos 0 e 740: 1130
+Distância entre os documentos 0 e 742: 957
+Distância entre os documentos 0 e 743: 836
+Distância entre os documentos 0 e 741: 2550
+Distância entre os documentos 0 e 745: 779
+Distância entre os documentos 0 e 744: 1245
+Distância entre os documentos 0 e 746: 729
+Distância entre os documentos 0 e 747: 1022
+Distância entre os documentos 0 e 748: 773
+Distância entre os documentos 0 e 750: 21972
+Distância entre os documentos 0 e 749: 870
+Distância entre os documentos 0 e 751: 1965
+Distância entre os documentos 0 e 753: 1513
+Distância entre os documentos 0 e 754: 859
+Distância entre os documentos 0 e 752: 776
+Distância entre os documentos 0 e 755: 3774
+Distância entre os documentos 0 e 756: 773
+Distância entre os documentos 0 e 757: 1260
+Distância entre os documentos 0 e 759: 2372
+Distância entre os documentos 0 e 758: 927
+Distância entre os documentos 0 e 760: 2849
+Distância entre os documentos 0 e 761: 703
+Distância entre os documentos 0 e 762: 698
+Distância entre os documentos 0 e 764: 850
+Distância entre os documentos 0 e 763: 1346
+Distância entre os documentos 0 e 767: 1535
+Distância entre os documentos 0 e 765: 1086
+Distância entre os documentos 0 e 766: 1559
+Distância entre os documentos 0 e 768: 985
+Distância entre os documentos 0 e 770: 826
+Distância entre os documentos 0 e 771: 846
+Distância entre os documentos 0 e 772: 825
+Distância entre os documentos 0 e 769: 825
+Distância entre os documentos 0 e 773: 2195
+Distância entre os documentos 0 e 774: 758
+Distância entre os documentos 0 e 775: 1026
+Distância entre os documentos 0 e 777: 965
+Distância entre os documentos 0 e 776: 4664
+Distância entre os documentos 0 e 778: 875
+Distância entre os documentos 0 e 779: 4792
+Distância entre os documentos 0 e 780: 1201
+Distância entre os documentos 0 e 781: 916
+Distância entre os documentos 0 e 783: 2111
+Distância entre os documentos 0 e 782: 862
+Distância entre os documentos 0 e 786: 1138
+Distância entre os documentos 0 e 784: 734
+Distância entre os documentos 0 e 785: 1021
+Distância entre os documentos 0 e 789: 1172
+Distância entre os documentos 0 e 788: 5943
+Distância entre os documentos 0 e 787: 1064
+Distância entre os documentos 0 e 790: 971
+Distância entre os documentos 0 e 791: 943
+Distância entre os documentos 0 e 794: 830
+Distância entre os documentos 0 e 793: 1292
+Distância entre os documentos 0 e 792: 760
+Distância entre os documentos 0 e 795: 973
+Distância entre os documentos 0 e 798: 7902
+Distância entre os documentos 0 e 797: 758
+Distância entre os documentos 0 e 796: 1465
+Distância entre os documentos 0 e 799: 902
+Distância entre os documentos 0 e 800: 860
+Distância entre os documentos 0 e 801: 841
+Distância entre os documentos 0 e 802: 1452
+Distância entre os documentos 0 e 804: 806
+Distância entre os documentos 0 e 803: 809
+Distância entre os documentos 0 e 805: 986
+Distância entre os documentos 0 e 806: 2314
+Distância entre os documentos 0 e 809: 707
+Distância entre os documentos 0 e 807: 706
+Distância entre os documentos 0 e 811: 1344
+Distância entre os documentos 0 e 808: 1806
+Distância entre os documentos 0 e 812: 806
+Distância entre os documentos 0 e 810: 5360
+Distância entre os documentos 0 e 814: 809
+Distância entre os documentos 0 e 813: 671
+Distância entre os documentos 0 e 815: 1871
+Distância entre os documentos 0 e 816: 871
+Distância entre os documentos 0 e 817: 723
+Distância entre os documentos 0 e 818: 715
+Distância entre os documentos 0 e 819: 1597
+Distância entre os documentos 0 e 820: 877
+Distância entre os documentos 0 e 821: 2070
+Distância entre os documentos 0 e 822: 802
+Distância entre os documentos 0 e 824: 771
+Distância entre os documentos 0 e 823: 1282
+Distância entre os documentos 0 e 825: 659
+Distância entre os documentos 0 e 827: 830
+Distância entre os documentos 0 e 826: 2238
+Distância entre os documentos 0 e 828: 1528
+Distância entre os documentos 0 e 832: 717
+Distância entre os documentos 0 e 831: 899
+Distância entre os documentos 0 e 829: 751
+Distância entre os documentos 0 e 830: 11493
+Distância entre os documentos 0 e 836: 665
+Distância entre os documentos 0 e 834: 787
+Distância entre os documentos 0 e 833: 861
+Distância entre os documentos 0 e 837: 816
+Distância entre os documentos 0 e 838: 808
+Distância entre os documentos 0 e 835: 678
+Distância entre os documentos 0 e 840: 1768
+Distância entre os documentos 0 e 841: 887
+Distância entre os documentos 0 e 843: 818
+Distância entre os documentos 0 e 839: 800
+Distância entre os documentos 0 e 842: 737
+Distância entre os documentos 0 e 844: 1048
+Distância entre os documentos 0 e 845: 945
+Distância entre os documentos 0 e 846: 907
+Distância entre os documentos 0 e 848: 1086
+Distância entre os documentos 0 e 847: 1536
+Distância entre os documentos 0 e 849: 883
+Distância entre os documentos 0 e 851: 923
+Distância entre os documentos 0 e 850: 951
+Distância entre os documentos 0 e 853: 734
+Distância entre os documentos 0 e 852: 819
+Distância entre os documentos 0 e 854: 1138
+Distância entre os documentos 0 e 856: 1568
+Distância entre os documentos 0 e 857: 1185
+Distância entre os documentos 0 e 858: 2485
+Distância entre os documentos 0 e 855: 977
+Distância entre os documentos 0 e 861: 709
+Distância entre os documentos 0 e 859: 1527
+Distância entre os documentos 0 e 860: 1462
+Distância entre os documentos 0 e 862: 823
+Distância entre os documentos 0 e 863: 2397
+Distância entre os documentos 0 e 864: 873
+Distância entre os documentos 0 e 867: 1212
+Distância entre os documentos 0 e 868: 1061
+Distância entre os documentos 0 e 866: 764
+Distância entre os documentos 0 e 869: 748
+Distância entre os documentos 0 e 865: 720
+Distância entre os documentos 0 e 871: 857
+Distância entre os documentos 0 e 870: 805
+Distância entre os documentos 0 e 872: 1469
+Distância entre os documentos 0 e 873: 827
+Distância entre os documentos 0 e 874: 1927
+Distância entre os documentos 0 e 877: 6842
+Distância entre os documentos 0 e 875: 1638
+Distância entre os documentos 0 e 878: 2086
+Distância entre os documentos 0 e 876: 777
+Distância entre os documentos 0 e 879: 748
+Distância entre os documentos 0 e 880: 1823
+Distância entre os documentos 0 e 881: 761
+Distância entre os documentos 0 e 884: 685
+Distância entre os documentos 0 e 885: 2664
+Distância entre os documentos 0 e 886: 708
+Distância entre os documentos 0 e 882: 691
+Distância entre os documentos 0 e 888: 993
+Distância entre os documentos 0 e 887: 889
+Distância entre os documentos 0 e 883: 4122
+Distância entre os documentos 0 e 889: 1968
+Distância entre os documentos 0 e 890: 902
+Distância entre os documentos 0 e 891: 1049
+Distância entre os documentos 0 e 893: 1431
+Distância entre os documentos 0 e 892: 1079
+Distância entre os documentos 0 e 894: 1008
+Distância entre os documentos 0 e 895: 1466
+Distância entre os documentos 0 e 896: 752
+Distância entre os documentos 0 e 897: 751
+Distância entre os documentos 0 e 898: 923
+Distância entre os documentos 0 e 899: 2271
+Distância entre os documentos 0 e 903: 752
+Distância entre os documentos 0 e 901: 1077
+Distância entre os documentos 0 e 902: 1513
+Distância entre os documentos 0 e 900: 4236
+Distância entre os documentos 0 e 904: 691
+Distância entre os documentos 0 e 905: 850
+Distância entre os documentos 0 e 907: 6288
+Distância entre os documentos 0 e 906: 873
+Distância entre os documentos 0 e 908: 2780
+Distância entre os documentos 0 e 909: 3669
+Distância entre os documentos 0 e 910: 756
+Distância entre os documentos 0 e 911: 891
+Distância entre os documentos 0 e 912: 1297
+Distância entre os documentos 0 e 913: 1149
+Distância entre os documentos 0 e 914: 799
+Distância entre os documentos 0 e 916: 1225
+Distância entre os documentos 0 e 915: 997
+Distância entre os documentos 0 e 917: 1432
+Distância entre os documentos 0 e 918: 873
+Distância entre os documentos 0 e 919: 959
+Distância entre os documentos 0 e 921: 1569
+Distância entre os documentos 0 e 920: 1500
+Distância entre os documentos 0 e 923: 710
+Distância entre os documentos 0 e 922: 832
+Distância entre os documentos 0 e 927: 1059
+Distância entre os documentos 0 e 926: 719
+Distância entre os documentos 0 e 924: 681
+Distância entre os documentos 0 e 925: 1099
+Distância entre os documentos 0 e 928: 737
+Distância entre os documentos 0 e 929: 3360
+Distância entre os documentos 0 e 930: 687
+Distância entre os documentos 0 e 931: 1892
+Distância entre os documentos 0 e 933: 875
+Distância entre os documentos 0 e 932: 918
+Distância entre os documentos 0 e 934: 927
+Distância entre os documentos 0 e 936: 1217
+Distância entre os documentos 0 e 935: 1071
+Distância entre os documentos 0 e 937: 731
+Distância entre os documentos 0 e 940: 981
+Distância entre os documentos 0 e 941: 2837
+Distância entre os documentos 0 e 939: 728
+Distância entre os documentos 0 e 938: 888
+Distância entre os documentos 0 e 942: 773
+Distância entre os documentos 0 e 943: 5705
+Distância entre os documentos 0 e 945: 673
+Distância entre os documentos 0 e 946: 1242
+Distância entre os documentos 0 e 944: 794
+Distância entre os documentos 0 e 948: 791
+Distância entre os documentos 0 e 947: 702
+Distância entre os documentos 0 e 949: 1437
+Distância entre os documentos 0 e 952: 6685
+Distância entre os documentos 0 e 953: 766
+Distância entre os documentos 0 e 950: 1052
+Distância entre os documentos 0 e 955: 1043
+Distância entre os documentos 0 e 956: 1206
+Distância entre os documentos 0 e 951: 753
+Distância entre os documentos 0 e 958: 907
+Distância entre os documentos 0 e 954: 802
+Distância entre os documentos 0 e 957: 910
+Distância entre os documentos 0 e 960: 1653
+Distância entre os documentos 0 e 959: 813
+Distância entre os documentos 0 e 963: 980
+Distância entre os documentos 0 e 962: 1869
+Distância entre os documentos 0 e 961: 1168
+Distância entre os documentos 0 e 964: 763
+Distância entre os documentos 0 e 965: 933
+Distância entre os documentos 0 e 967: 738
+Distância entre os documentos 0 e 966: 745
+Distância entre os documentos 0 e 968: 793
+Distância entre os documentos 0 e 969: 761
+Distância entre os documentos 0 e 970: 720
+Distância entre os documentos 0 e 971: 784
+Distância entre os documentos 0 e 974: 941
+Distância entre os documentos 0 e 976: 735
+Distância entre os documentos 0 e 972: 993
+Distância entre os documentos 0 e 975: 757
+Distância entre os documentos 0 e 973: 795
+Distância entre os documentos 0 e 977: 1679
+Distância entre os documentos 0 e 978: 724
+Distância entre os documentos 0 e 979: 797
+Distância entre os documentos 0 e 981: 1727
+Distância entre os documentos 0 e 983: 762
+Distância entre os documentos 0 e 980: 1662
+Distância entre os documentos 0 e 982: 850
+Distância entre os documentos 0 e 984: 867
+Distância entre os documentos 0 e 985: 736
+Distância entre os documentos 0 e 986: 786
+Distância entre os documentos 0 e 987: 671
+Distância entre os documentos 0 e 990: 2437
+Distância entre os documentos 0 e 988: 767
+Distância entre os documentos 0 e 989: 685
+Distância entre os documentos 0 e 991: 1247
+Distância entre os documentos 0 e 993: 754
+Distância entre os documentos 0 e 992: 1004
+Distância entre os documentos 0 e 996: 837
+Distância entre os documentos 0 e 998: 2466
+Distância entre os documentos 0 e 995: 755
+Distância entre os documentos 0 e 994: 1845
+Distância entre os documentos 0 e 1000: 715
+Distância entre os documentos 0 e 1001: 1041
+Distância entre os documentos 0 e 997: 1243
+Distância entre os documentos 0 e 1002: 864
+Distância entre os documentos 0 e 1004: 725
+Distância entre os documentos 0 e 1005: 1225
+Distância entre os documentos 0 e 999: 1047
+Distância entre os documentos 0 e 1003: 632
+Distância entre os documentos 0 e 1006: 3290
+Distância entre os documentos 0 e 1007: 729
+Distância entre os documentos 0 e 1010: 894
+Distância entre os documentos 0 e 1009: 676
+Distância entre os documentos 0 e 1012: 1356
+Distância entre os documentos 0 e 1011: 1020
+Distância entre os documentos 0 e 1008: 725
+Distância entre os documentos 0 e 1013: 1047
+Distância entre os documentos 0 e 1014: 725
+Distância entre os documentos 0 e 1017: 718
+Distância entre os documentos 0 e 1016: 795
+Distância entre os documentos 0 e 1018: 722
+Distância entre os documentos 0 e 1015: 1511
+Distância entre os documentos 0 e 1019: 1327
+Distância entre os documentos 0 e 1020: 757
+Distância entre os documentos 0 e 1021: 1037
+Distância entre os documentos 0 e 1024: 1435
+Distância entre os documentos 0 e 1023: 1572
+Distância entre os documentos 0 e 1022: 787
+Distância entre os documentos 0 e 1025: 814
+Distância entre os documentos 0 e 1027: 917
+Distância entre os documentos 0 e 1026: 745
+Distância entre os documentos 0 e 1028: 1450
+Distância entre os documentos 0 e 1030: 834
+Distância entre os documentos 0 e 1029: 914
+Distância entre os documentos 0 e 1032: 1022
+Distância entre os documentos 0 e 1033: 745
+Distância entre os documentos 0 e 1031: 708
+Distância entre os documentos 0 e 1035: 829
+Distância entre os documentos 0 e 1034: 943
+Distância entre os documentos 0 e 1036: 1108
+Distância entre os documentos 0 e 1037: 763
+Distância entre os documentos 0 e 1038: 785
+Distância entre os documentos 0 e 1041: 663
+Distância entre os documentos 0 e 1039: 875
+Distância entre os documentos 0 e 1040: 1853
+Distância entre os documentos 0 e 1043: 718
+Distância entre os documentos 0 e 1042: 1179
+Distância entre os documentos 0 e 1044: 757
+Distância entre os documentos 0 e 1045: 821
+Distância entre os documentos 0 e 1046: 738
+Distância entre os documentos 0 e 1048: 771
+Distância entre os documentos 0 e 1047: 963
+Distância entre os documentos 0 e 1049: 799
+Distância entre os documentos 0 e 1050: 807
+Distância entre os documentos 0 e 1051: 1170
+Distância entre os documentos 0 e 1052: 776
+Distância entre os documentos 0 e 1053: 685
+Distância entre os documentos 0 e 1055: 841
+Distância entre os documentos 0 e 1056: 851
+Distância entre os documentos 0 e 1054: 717
+Distância entre os documentos 0 e 1057: 2083
+Distância entre os documentos 0 e 1059: 827
+Distância entre os documentos 0 e 1060: 687
+Distância entre os documentos 0 e 1061: 729
+Distância entre os documentos 0 e 1062: 995
+Distância entre os documentos 0 e 1058: 690
+Distância entre os documentos 0 e 1063: 1177
+Distância entre os documentos 0 e 1065: 769
+Distância entre os documentos 0 e 1064: 2885
+Distância entre os documentos 0 e 1066: 929
+Distância entre os documentos 0 e 1067: 792
+Distância entre os documentos 0 e 1069: 702
+Distância entre os documentos 0 e 1070: 727
+Distância entre os documentos 0 e 1068: 806
+Distância entre os documentos 0 e 1071: 2060
+Distância entre os documentos 0 e 1072: 836
+Distância entre os documentos 0 e 1074: 1060
+Distância entre os documentos 0 e 1073: 747
+Distância entre os documentos 0 e 1075: 743
+Distância entre os documentos 0 e 1076: 1516
+Distância entre os documentos 0 e 1077: 860
+Distância entre os documentos 0 e 1078: 866
+Distância entre os documentos 0 e 1079: 850
+Distância entre os documentos 0 e 1080: 711
+Distância entre os documentos 0 e 1081: 799
+Distância entre os documentos 0 e 1082: 748
+Distância entre os documentos 0 e 1083: 2968
+Distância entre os documentos 0 e 1084: 745
+Distância entre os documentos 0 e 1086: 2467
+Distância entre os documentos 0 e 1085: 740
+Distância entre os documentos 0 e 1088: 797
+Distância entre os documentos 0 e 1089: 799
+Distância entre os documentos 0 e 1087: 751
+Distância entre os documentos 0 e 1090: 729
+Distância entre os documentos 0 e 1091: 802
+Distância entre os documentos 0 e 1092: 1445
+Distância entre os documentos 0 e 1093: 1248
+Distância entre os documentos 0 e 1094: 1599
+Distância entre os documentos 0 e 1095: 896
+Distância entre os documentos 0 e 1097: 1150
+Distância entre os documentos 0 e 1099: 799
+Distância entre os documentos 0 e 1098: 816
+Distância entre os documentos 0 e 1100: 813
+Distância entre os documentos 0 e 1096: 706
+Distância entre os documentos 0 e 1101: 789
+Distância entre os documentos 0 e 1102: 1134
+Distância entre os documentos 0 e 1103: 2389
+Distância entre os documentos 0 e 1104: 851
+Distância entre os documentos 0 e 1105: 823
+Distância entre os documentos 0 e 1106: 772
+Distância entre os documentos 0 e 1107: 784
+Distância entre os documentos 0 e 1108: 706
+Distância entre os documentos 0 e 1109: 810
+Distância entre os documentos 0 e 1110: 1088
+Distância entre os documentos 0 e 1111: 730
+Distância entre os documentos 0 e 1113: 731
+Distância entre os documentos 0 e 1114: 840
+Distância entre os documentos 0 e 1112: 780
+Distância entre os documentos 0 e 1115: 974
+Distância entre os documentos 0 e 1116: 649
+Distância entre os documentos 0 e 1117: 826
+Distância entre os documentos 0 e 1118: 4706
+Distância entre os documentos 0 e 1120: 1299
+Distância entre os documentos 0 e 1119: 967
+Distância entre os documentos 0 e 1121: 910
+Distância entre os documentos 0 e 1123: 1081
+Distância entre os documentos 0 e 1122: 1551
+Distância entre os documentos 0 e 1124: 702
+Distância entre os documentos 0 e 1125: 798
+Distância entre os documentos 0 e 1126: 862
+Distância entre os documentos 0 e 1127: 3385
+Distância entre os documentos 0 e 1130: 5995
+Distância entre os documentos 0 e 1128: 963
+Distância entre os documentos 0 e 1129: 707
+Distância entre os documentos 0 e 1131: 791
+Distância entre os documentos 0 e 1132: 1991
+Distância entre os documentos 0 e 1134: 1209
+Distância entre os documentos 0 e 1133: 860
+Distância entre os documentos 0 e 1135: 1654
+Distância entre os documentos 0 e 1136: 1038
+Distância entre os documentos 0 e 1138: 749
+Distância entre os documentos 0 e 1137: 657
+Distância entre os documentos 0 e 1139: 1751
+Distância entre os documentos 0 e 1140: 8375
+Distância entre os documentos 0 e 1142: 1342
+Distância entre os documentos 0 e 1141: 1203
+Distância entre os documentos 0 e 1144: 806
+Distância entre os documentos 0 e 1143: 843
+Distância entre os documentos 0 e 1145: 1596
+Distância entre os documentos 0 e 1147: 2473
+Distância entre os documentos 0 e 1146: 690
+Distância entre os documentos 0 e 1148: 696
+Distância entre os documentos 0 e 1149: 975
+Distância entre os documentos 0 e 1150: 1030
+Distância entre os documentos 0 e 1151: 1983
+Distância entre os documentos 0 e 1152: 3032
+Distância entre os documentos 0 e 1153: 1295
+Distância entre os documentos 0 e 1154: 1960
+Distância entre os documentos 0 e 1155: 683
+Distância entre os documentos 0 e 1158: 850
+Distância entre os documentos 0 e 1159: 905
+Distância entre os documentos 0 e 1157: 738
+Distância entre os documentos 0 e 1156: 757
+Distância entre os documentos 0 e 1161: 800
+Distância entre os documentos 0 e 1160: 1992
+Distância entre os documentos 0 e 1163: 7205
+Distância entre os documentos 0 e 1165: 638
+Distância entre os documentos 0 e 1162: 1463
+Distância entre os documentos 0 e 1164: 1768
+Distância entre os documentos 0 e 1166: 720
+Distância entre os documentos 0 e 1167: 707
+Distância entre os documentos 0 e 1168: 1338
+Distância entre os documentos 0 e 1169: 844
+Distância entre os documentos 0 e 1170: 980
+Distância entre os documentos 0 e 1171: 755
+Distância entre os documentos 0 e 1172: 1234
+Distância entre os documentos 0 e 1175: 762
+Distância entre os documentos 0 e 1174: 765
+Distância entre os documentos 0 e 1176: 3710
+Distância entre os documentos 0 e 1173: 777
+Distância entre os documentos 0 e 1178: 965
+Distância entre os documentos 0 e 1177: 1142
+Distância entre os documentos 0 e 1182: 650
+Distância entre os documentos 0 e 1180: 824
+Distância entre os documentos 0 e 1179: 827
+Distância entre os documentos 0 e 1183: 1586
+Distância entre os documentos 0 e 1181: 1301
+Distância entre os documentos 0 e 1184: 1394
+Distância entre os documentos 0 e 1187: 994
+Distância entre os documentos 0 e 1188: 749
+Distância entre os documentos 0 e 1185: 821
+Distância entre os documentos 0 e 1189: 1141
+Distância entre os documentos 0 e 1186: 2081
+Distância entre os documentos 0 e 1190: 1199
+Distância entre os documentos 0 e 1191: 844
+Distância entre os documentos 0 e 1192: 9754
+Distância entre os documentos 0 e 1193: 1236
+Distância entre os documentos 0 e 1194: 1067
+Distância entre os documentos 0 e 1195: 735
+Distância entre os documentos 0 e 1196: 687
+Distância entre os documentos 0 e 1197: 878
+Distância entre os documentos 0 e 1198: 753
+Distância entre os documentos 0 e 1199: 713
+Distância entre os documentos 0 e 1201: 1172
+Distância entre os documentos 0 e 1200: 1185
+Distância entre os documentos 0 e 1203: 812
+Distância entre os documentos 0 e 1204: 4186
+Distância entre os documentos 0 e 1202: 1045
+Distância entre os documentos 0 e 1206: 8037
+Distância entre os documentos 0 e 1205: 850
+Distância entre os documentos 0 e 1207: 1041
+Distância entre os documentos 0 e 1208: 1208
+Distância entre os documentos 0 e 1209: 974
+Distância entre os documentos 0 e 1210: 719
+Distância entre os documentos 0 e 1211: 719
+Distância entre os documentos 0 e 1212: 703
+Distância entre os documentos 0 e 1213: 3745
+Distância entre os documentos 0 e 1214: 779
+Distância entre os documentos 0 e 1216: 1461
+Distância entre os documentos 0 e 1217: 963
+Distância entre os documentos 0 e 1215: 7639
+Distância entre os documentos 0 e 1218: 2245
+Distância entre os documentos 0 e 1219: 883
+Distância entre os documentos 0 e 1220: 1679
+Distância entre os documentos 0 e 1221: 1748
+Distância entre os documentos 0 e 1222: 1128
+Distância entre os documentos 0 e 1223: 3440
+Distância entre os documentos 0 e 1225: 4430
+Distância entre os documentos 0 e 1226: 899
+Distância entre os documentos 0 e 1224: 789
+Distância entre os documentos 0 e 1227: 1841
+Distância entre os documentos 0 e 1228: 13103
+Distância entre os documentos 0 e 1231: 787
+Distância entre os documentos 0 e 1230: 721
+Distância entre os documentos 0 e 1229: 884
+Distância entre os documentos 0 e 1232: 1021
+Distância entre os documentos 0 e 1233: 745
+Distância entre os documentos 0 e 1235: 689
+Distância entre os documentos 0 e 1234: 10470
+Distância entre os documentos 0 e 1236: 870
+Distância entre os documentos 0 e 1237: 876
+Distância entre os documentos 0 e 1238: 883
+Distância entre os documentos 0 e 1239: 707
+Distância entre os documentos 0 e 1240: 3032
+Distância entre os documentos 0 e 1241: 1161
+Distância entre os documentos 0 e 1242: 1288
+Distância entre os documentos 0 e 1246: 5555
+Distância entre os documentos 0 e 1243: 699
+Distância entre os documentos 0 e 1245: 810
+Distância entre os documentos 0 e 1244: 1002
+Distância entre os documentos 0 e 1248: 770
+Distância entre os documentos 0 e 1247: 1263
+Distância entre os documentos 0 e 1249: 2639
+Distância entre os documentos 0 e 1250: 1217
+Distância entre os documentos 0 e 1251: 737
+Distância entre os documentos 0 e 1253: 4231
+Distância entre os documentos 0 e 1252: 808
+Distância entre os documentos 0 e 1254: 850
+Distância entre os documentos 0 e 1256: 787
+Distância entre os documentos 0 e 1258: 736
+Distância entre os documentos 0 e 1255: 1175
+Distância entre os documentos 0 e 1257: 956
+Distância entre os documentos 0 e 1259: 769
+Distância entre os documentos 0 e 1260: 1037
+Distância entre os documentos 0 e 1262: 1514
+Distância entre os documentos 0 e 1263: 1125
+Distância entre os documentos 0 e 1261: 708
+Distância entre os documentos 0 e 1265: 797
+Distância entre os documentos 0 e 1264: 717
+Distância entre os documentos 0 e 1266: 702
+Distância entre os documentos 0 e 1267: 690
+Distância entre os documentos 0 e 1268: 872
+Distância entre os documentos 0 e 1269: 671
+Distância entre os documentos 0 e 1270: 700
+Distância entre os documentos 0 e 1271: 931
+Distância entre os documentos 0 e 1272: 731
+Distância entre os documentos 0 e 1273: 757
+Distância entre os documentos 0 e 1275: 639
+Distância entre os documentos 0 e 1274: 1202
+Distância entre os documentos 0 e 1276: 4433
+Distância entre os documentos 0 e 1277: 738
+Distância entre os documentos 0 e 1278: 827
+Distância entre os documentos 0 e 1279: 715
+Distância entre os documentos 0 e 1280: 683
+Distância entre os documentos 0 e 1281: 794
+Distância entre os documentos 0 e 1282: 799
+Distância entre os documentos 0 e 1283: 640
+Distância entre os documentos 0 e 1287: 792
+Distância entre os documentos 0 e 1285: 950
+Distância entre os documentos 0 e 1284: 695
+Distância entre os documentos 0 e 1288: 792
+Distância entre os documentos 0 e 1289: 760
+Distância entre os documentos 0 e 1286: 1567
+Distância entre os documentos 0 e 1290: 779
+Distância entre os documentos 0 e 1291: 724
+Distância entre os documentos 0 e 1292: 4328
+Distância entre os documentos 0 e 1293: 837
+Distância entre os documentos 0 e 1294: 822
+Distância entre os documentos 0 e 1295: 805
+Distância entre os documentos 0 e 1297: 1227
+Distância entre os documentos 0 e 1296: 1470
+Distância entre os documentos 0 e 1299: 783
+Distância entre os documentos 0 e 1300: 643
+Distância entre os documentos 0 e 1298: 675
+Distância entre os documentos 0 e 1302: 732
+Distância entre os documentos 0 e 1301: 1105
+Distância entre os documentos 0 e 1303: 740
+Distância entre os documentos 0 e 1305: 1771
+Distância entre os documentos 0 e 1307: 998
+Distância entre os documentos 0 e 1304: 750
+Distância entre os documentos 0 e 1308: 790
+Distância entre os documentos 0 e 1306: 761
+Distância entre os documentos 0 e 1309: 1366
+Distância entre os documentos 0 e 1310: 770
+Distância entre os documentos 0 e 1311: 1097
+Distância entre os documentos 0 e 1314: 833
+Distância entre os documentos 0 e 1312: 1159
+Distância entre os documentos 0 e 1315: 760
+Distância entre os documentos 0 e 1313: 1860
+Distância entre os documentos 0 e 1316: 1446
+Distância entre os documentos 0 e 1319: 1519
+Distância entre os documentos 0 e 1317: 734
+Distância entre os documentos 0 e 1318: 877
+Distância entre os documentos 0 e 1320: 769
+Distância entre os documentos 0 e 1321: 2138
+Distância entre os documentos 0 e 1322: 710
+Distância entre os documentos 0 e 1323: 1113
+Distância entre os documentos 0 e 1324: 1127
+Distância entre os documentos 0 e 1325: 1705
+Distância entre os documentos 0 e 1326: 1249
+Distância entre os documentos 0 e 1327: 716
+Distância entre os documentos 0 e 1328: 1219
+Distância entre os documentos 0 e 1329: 856
+Distância entre os documentos 0 e 1330: 999
+Distância entre os documentos 0 e 1332: 1969
+Distância entre os documentos 0 e 1331: 847
+Distância entre os documentos 0 e 1333: 708
+Distância entre os documentos 0 e 1335: 715
+Distância entre os documentos 0 e 1334: 748
+Distância entre os documentos 0 e 1336: 1083
+Distância entre os documentos 0 e 1337: 2136
+Distância entre os documentos 0 e 1338: 1316
+Distância entre os documentos 0 e 1339: 746
+Distância entre os documentos 0 e 1341: 819
+Distância entre os documentos 0 e 1340: 1409
+Distância entre os documentos 0 e 1342: 2696
+Distância entre os documentos 0 e 1343: 7356
+Distância entre os documentos 0 e 1344: 1799
+Distância entre os documentos 0 e 1346: 941
+Distância entre os documentos 0 e 1345: 1030
+Distância entre os documentos 0 e 1348: 1047
+Distância entre os documentos 0 e 1347: 927
+Distância entre os documentos 0 e 1349: 750
+Distância entre os documentos 0 e 1350: 854
+Distância entre os documentos 0 e 1351: 1049
+Distância entre os documentos 0 e 1352: 764
+Distância entre os documentos 0 e 1353: 705
+Distância entre os documentos 0 e 1354: 953
+Distância entre os documentos 0 e 1356: 807
+Distância entre os documentos 0 e 1357: 2168
+Distância entre os documentos 0 e 1355: 2322
+Distância entre os documentos 0 e 1358: 818
+Distância entre os documentos 0 e 1361: 713
+Distância entre os documentos 0 e 1360: 1057
+Distância entre os documentos 0 e 1359: 886
+Distância entre os documentos 0 e 1363: 1511
+Distância entre os documentos 0 e 1362: 838
+Distância entre os documentos 0 e 1365: 2290
+Distância entre os documentos 0 e 1364: 671
+Distância entre os documentos 0 e 1366: 759
+Distância entre os documentos 0 e 1367: 4239
+Distância entre os documentos 0 e 1368: 1875
+Distância entre os documentos 0 e 1369: 6082
+Distância entre os documentos 0 e 1370: 1045
+Distância entre os documentos 0 e 1373: 670
+Distância entre os documentos 0 e 1374: 823
+Distância entre os documentos 0 e 1372: 788
+Distância entre os documentos 0 e 1371: 872
+Distância entre os documentos 0 e 1375: 1146
+Distância entre os documentos 0 e 1376: 952
+Distância entre os documentos 0 e 1377: 11220
+Distância entre os documentos 0 e 1378: 832
+Distância entre os documentos 0 e 1379: 853
+Distância entre os documentos 0 e 1380: 11291
+Distância entre os documentos 0 e 1381: 771
+Distância entre os documentos 0 e 1382: 1277
+Distância entre os documentos 0 e 1384: 753
+Distância entre os documentos 0 e 1386: 8447
+Distância entre os documentos 0 e 1387: 962
+Distância entre os documentos 0 e 1385: 1148
+Distância entre os documentos 0 e 1383: 1400
+Distância entre os documentos 0 e 1388: 786
+Distância entre os documentos 0 e 1389: 967
+Distância entre os documentos 0 e 1390: 990
+Distância entre os documentos 0 e 1391: 715
+Distância entre os documentos 0 e 1392: 707
+Distância entre os documentos 0 e 1393: 1190
+Distância entre os documentos 0 e 1394: 679
+Distância entre os documentos 0 e 1395: 780
+Distância entre os documentos 0 e 1398: 812
+Distância entre os documentos 0 e 1396: 1016
+Distância entre os documentos 0 e 1397: 670
+Distância entre os documentos 0 e 1399: 735
+Distância entre os documentos 0 e 1400: 1381
+Distância entre os documentos 0 e 1401: 747
+Distância entre os documentos 0 e 1402: 1650
+Distância entre os documentos 0 e 1403: 2089
+Distância entre os documentos 0 e 1404: 806
+Distância entre os documentos 0 e 1405: 907
+Distância entre os documentos 0 e 1408: 1102
+Distância entre os documentos 0 e 1407: 1401
+Distância entre os documentos 0 e 1406: 819
+Distância entre os documentos 0 e 1409: 842
+Distância entre os documentos 0 e 1411: 827
+Distância entre os documentos 0 e 1412: 2626
+Distância entre os documentos 0 e 1410: 8631
+Distância entre os documentos 0 e 1413: 916
+Distância entre os documentos 0 e 1415: 1296
+Distância entre os documentos 0 e 1416: 1460
+Distância entre os documentos 0 e 1417: 1852
+Distância entre os documentos 0 e 1414: 842
+Distância entre os documentos 0 e 1418: 748
+Distância entre os documentos 0 e 1419: 1769
+Distância entre os documentos 0 e 1420: 1417
+Distância entre os documentos 0 e 1423: 1211
+Distância entre os documentos 0 e 1421: 803
+Distância entre os documentos 0 e 1422: 997
+Distância entre os documentos 0 e 1424: 734
+Distância entre os documentos 0 e 1425: 914
+Distância entre os documentos 0 e 1426: 2743
+Distância entre os documentos 0 e 1428: 800
+Distância entre os documentos 0 e 1427: 2842
+Distância entre os documentos 0 e 1430: 777
+Distância entre os documentos 0 e 1429: 714
+Distância entre os documentos 0 e 1432: 824
+Distância entre os documentos 0 e 1431: 1563
+Distância entre os documentos 0 e 1434: 797
+Distância entre os documentos 0 e 1433: 821
+Distância entre os documentos 0 e 1437: 722
+Distância entre os documentos 0 e 1436: 2607
+Distância entre os documentos 0 e 1438: 766
+Distância entre os documentos 0 e 1435: 929
+Distância entre os documentos 0 e 1439: 13227
+Distância entre os documentos 0 e 1440: 850
+Distância entre os documentos 0 e 1441: 1286
+Distância entre os documentos 0 e 1442: 748
+Distância entre os documentos 0 e 1446: 729
+Distância entre os documentos 0 e 1443: 1460
+Distância entre os documentos 0 e 1444: 783
+Distância entre os documentos 0 e 1445: 1658
+Distância entre os documentos 0 e 1449: 2598
+Distância entre os documentos 0 e 1448: 653
+Distância entre os documentos 0 e 1447: 1206
+Distância entre os documentos 0 e 1450: 677
+Distância entre os documentos 0 e 1451: 984
+Distância entre os documentos 0 e 1454: 815
+Distância entre os documentos 0 e 1452: 823
+Distância entre os documentos 0 e 1453: 898
+Distância entre os documentos 0 e 1455: 1460
+Distância entre os documentos 0 e 1457: 797
+Distância entre os documentos 0 e 1456: 932
+Distância entre os documentos 0 e 1460: 1266
+Distância entre os documentos 0 e 1459: 690
+Distância entre os documentos 0 e 1461: 2565
+Distância entre os documentos 0 e 1458: 2108
+Distância entre os documentos 0 e 1462: 734
+Distância entre os documentos 0 e 1463: 1454
+Distância entre os documentos 0 e 1467: 638
+Distância entre os documentos 0 e 1464: 1464
+Distância entre os documentos 0 e 1466: 2198
+Distância entre os documentos 0 e 1465: 879
+Distância entre os documentos 0 e 1468: 1330
+Distância entre os documentos 0 e 1469: 1188
+Distância entre os documentos 0 e 1471: 772
+Distância entre os documentos 0 e 1470: 788
+Distância entre os documentos 0 e 1472: 1149
+Distância entre os documentos 0 e 1473: 11886
+Distância entre os documentos 0 e 1474: 1156
+Distância entre os documentos 0 e 1475: 742
+Distância entre os documentos 0 e 1476: 1051
+Distância entre os documentos 0 e 1477: 1728
+Distância entre os documentos 0 e 1478: 872
+Distância entre os documentos 0 e 1479: 817
+Distância entre os documentos 0 e 1482: 781
+Distância entre os documentos 0 e 1481: 626
+Distância entre os documentos 0 e 1480: 1594
+Distância entre os documentos 0 e 1483: 655
+Distância entre os documentos 0 e 1484: 685
+Distância entre os documentos 0 e 1485: 977
+Distância entre os documentos 0 e 1486: 797
+Distância entre os documentos 0 e 1487: 785
+Distância entre os documentos 0 e 1489: 881
+Distância entre os documentos 0 e 1488: 726
+Distância entre os documentos 0 e 1491: 624
+Distância entre os documentos 0 e 1490: 977
+Distância entre os documentos 0 e 1492: 788
+Distância entre os documentos 0 e 1493: 784
+Distância entre os documentos 0 e 1494: 679
+Distância entre os documentos 0 e 1495: 934
+Distância entre os documentos 0 e 1496: 764
+Distância entre os documentos 0 e 1498: 831
+Distância entre os documentos 0 e 1499: 729
+Distância entre os documentos 0 e 1500: 1258
+Distância entre os documentos 0 e 1497: 807
+Distância entre os documentos 0 e 1502: 672
+Distância entre os documentos 0 e 1501: 1051
+Distância entre os documentos 0 e 1503: 970
+Distância entre os documentos 0 e 1504: 798
+Distância entre os documentos 0 e 1505: 734
+Distância entre os documentos 0 e 1506: 627
+Distância entre os documentos 0 e 1508: 833
+Distância entre os documentos 0 e 1509: 795
+Distância entre os documentos 0 e 1512: 687
+Distância entre os documentos 0 e 1511: 1022
+Distância entre os documentos 0 e 1514: 648
+Distância entre os documentos 0 e 1510: 767
+Distância entre os documentos 0 e 1513: 1625
+Distância entre os documentos 0 e 1515: 1526
+Distância entre os documentos 0 e 1516: 810
+Distância entre os documentos 0 e 1507: 3242
+Distância entre os documentos 0 e 1517: 969
+Distância entre os documentos 0 e 1518: 747
+Distância entre os documentos 0 e 1519: 754
+Distância entre os documentos 0 e 1520: 1563
+Distância entre os documentos 0 e 1521: 1230
+Distância entre os documentos 0 e 1522: 974
+Distância entre os documentos 0 e 1524: 717
+Distância entre os documentos 0 e 1523: 1021
+Distância entre os documentos 0 e 1525: 824
+Distância entre os documentos 0 e 1527: 9646
+Distância entre os documentos 0 e 1526: 1179
+Distância entre os documentos 0 e 1529: 744
+Distância entre os documentos 0 e 1528: 791
+Distância entre os documentos 0 e 1530: 740
+Distância entre os documentos 0 e 1531: 1923
+Distância entre os documentos 0 e 1532: 1054
+Distância entre os documentos 0 e 1533: 777
+Distância entre os documentos 0 e 1534: 779
+Distância entre os documentos 0 e 1535: 1892
+Distância entre os documentos 0 e 1536: 1057
+Distância entre os documentos 0 e 1537: 965
+Distância entre os documentos 0 e 1538: 718
+Distância entre os documentos 0 e 1539: 757
+Distância entre os documentos 0 e 1540: 706
+Distância entre os documentos 0 e 1541: 878
+Distância entre os documentos 0 e 1542: 1911
+Distância entre os documentos 0 e 1543: 632
+Distância entre os documentos 0 e 1544: 700
+Distância entre os documentos 0 e 1546: 719
+Distância entre os documentos 0 e 1545: 812
+Distância entre os documentos 0 e 1547: 759
+Distância entre os documentos 0 e 1548: 793
+Distância entre os documentos 0 e 1549: 706
+Distância entre os documentos 0 e 1552: 739
+Distância entre os documentos 0 e 1550: 842
+Distância entre os documentos 0 e 1551: 640
+Distância entre os documentos 0 e 1553: 5219
+Distância entre os documentos 0 e 1555: 1104
+Distância entre os documentos 0 e 1554: 2539
+Distância entre os documentos 0 e 1557: 663
+Distância entre os documentos 0 e 1556: 1258
+Distância entre os documentos 0 e 1559: 918
+Distância entre os documentos 0 e 1560: 806
+Distância entre os documentos 0 e 1558: 773
+Distância entre os documentos 0 e 1562: 807
+Distância entre os documentos 0 e 1561: 1678
+Distância entre os documentos 0 e 1563: 628
+Distância entre os documentos 0 e 1565: 977
+Distância entre os documentos 0 e 1566: 621
+Distância entre os documentos 0 e 1567: 733
+Distância entre os documentos 0 e 1564: 1560
+Distância entre os documentos 0 e 1568: 752
+Distância entre os documentos 0 e 1570: 634
+Distância entre os documentos 0 e 1569: 752
+Distância entre os documentos 0 e 1571: 929
+Distância entre os documentos 0 e 1572: 756
+Distância entre os documentos 0 e 1573: 719
+Distância entre os documentos 0 e 1574: 825
+Distância entre os documentos 0 e 1575: 808
+Distância entre os documentos 0 e 1576: 1136
+Distância entre os documentos 0 e 1578: 1698
+Distância entre os documentos 0 e 1579: 869
+Distância entre os documentos 0 e 1577: 1394
+Distância entre os documentos 0 e 1580: 929
+Distância entre os documentos 0 e 1581: 791
+Distância entre os documentos 0 e 1584: 9729
+Distância entre os documentos 0 e 1586: 816
+Distância entre os documentos 0 e 1582: 1272
+Distância entre os documentos 0 e 1583: 3444
+Distância entre os documentos 0 e 1585: 726
+Distância entre os documentos 0 e 1587: 714
+Distância entre os documentos 0 e 1589: 2198
+Distância entre os documentos 0 e 1590: 681
+Distância entre os documentos 0 e 1591: 1359
+Distância entre os documentos 0 e 1588: 650
+Distância entre os documentos 0 e 1592: 710
+Distância entre os documentos 0 e 1593: 743
+Distância entre os documentos 0 e 1594: 871
+Distância entre os documentos 0 e 1595: 992
+Distância entre os documentos 0 e 1597: 845
+Distância entre os documentos 0 e 1596: 849
+Distância entre os documentos 0 e 1598: 780
+Distância entre os documentos 0 e 1600: 2159
+Distância entre os documentos 0 e 1599: 744
+Distância entre os documentos 0 e 1602: 1274
+Distância entre os documentos 0 e 1604: 775
+Distância entre os documentos 0 e 1603: 733
+Distância entre os documentos 0 e 1606: 861
+Distância entre os documentos 0 e 1601: 751
+Distância entre os documentos 0 e 1608: 932
+Distância entre os documentos 0 e 1607: 674
+Distância entre os documentos 0 e 1605: 739
+Distância entre os documentos 0 e 1609: 684
+Distância entre os documentos 0 e 1610: 822
+Distância entre os documentos 0 e 1611: 737
+Distância entre os documentos 0 e 1614: 684
+Distância entre os documentos 0 e 1615: 927
+Distância entre os documentos 0 e 1612: 2297
+Distância entre os documentos 0 e 1613: 1988
+Distância entre os documentos 0 e 1616: 644
+Distância entre os documentos 0 e 1617: 863
+Distância entre os documentos 0 e 1618: 706
+Distância entre os documentos 0 e 1622: 899
+Distância entre os documentos 0 e 1620: 4436
+Distância entre os documentos 0 e 1621: 1305
+Distância entre os documentos 0 e 1623: 651
+Distância entre os documentos 0 e 1624: 675
+Distância entre os documentos 0 e 1619: 850
+Distância entre os documentos 0 e 1625: 939
+Distância entre os documentos 0 e 1626: 720
+Distância entre os documentos 0 e 1627: 2072
+Distância entre os documentos 0 e 1628: 728
+Distância entre os documentos 0 e 1629: 2571
+Distância entre os documentos 0 e 1630: 1145
+Distância entre os documentos 0 e 1631: 701
+Distância entre os documentos 0 e 1632: 778
+Distância entre os documentos 0 e 1635: 1294
+Distância entre os documentos 0 e 1634: 661
+Distância entre os documentos 0 e 1636: 1077
+Distância entre os documentos 0 e 1633: 982
+Distância entre os documentos 0 e 1637: 765
+Distância entre os documentos 0 e 1639: 954
+Distância entre os documentos 0 e 1638: 1496
+Distância entre os documentos 0 e 1640: 614
+Distância entre os documentos 0 e 1644: 1951
+Distância entre os documentos 0 e 1643: 792
+Distância entre os documentos 0 e 1641: 622
+Distância entre os documentos 0 e 1642: 1623
+Distância entre os documentos 0 e 1645: 1092
+Distância entre os documentos 0 e 1646: 6201
+Distância entre os documentos 0 e 1647: 1171
+Distância entre os documentos 0 e 1648: 840
+Distância entre os documentos 0 e 1650: 873
+Distância entre os documentos 0 e 1649: 721
+Distância entre os documentos 0 e 1651: 903
+Distância entre os documentos 0 e 1654: 817
+Distância entre os documentos 0 e 1653: 1183
+Distância entre os documentos 0 e 1655: 820
+Distância entre os documentos 0 e 1652: 827
+Distância entre os documentos 0 e 1656: 990
+Distância entre os documentos 0 e 1657: 1431
+Distância entre os documentos 0 e 1659: 1114
+Distância entre os documentos 0 e 1658: 693
+Distância entre os documentos 0 e 1661: 5110
+Distância entre os documentos 0 e 1660: 854
+Distância entre os documentos 0 e 1662: 727
+Distância entre os documentos 0 e 1663: 1001
+Distância entre os documentos 0 e 1665: 960
+Distância entre os documentos 0 e 1664: 693
+Distância entre os documentos 0 e 1666: 686
+Distância entre os documentos 0 e 1667: 12709
+Distância entre os documentos 0 e 1668: 11175
+Distância entre os documentos 0 e 1669: 842
+Distância entre os documentos 0 e 1670: 701
+Distância entre os documentos 0 e 1671: 2922
+Distância entre os documentos 0 e 1674: 2858
+Distância entre os documentos 0 e 1672: 682
+Distância entre os documentos 0 e 1673: 9691
+Distância entre os documentos 0 e 1676: 2498
+Distância entre os documentos 0 e 1675: 1719
+Distância entre os documentos 0 e 1678: 2120
+Distância entre os documentos 0 e 1677: 12411
+Distância entre os documentos 0 e 1679: 11103
+Distância entre os documentos 0 e 1680: 828
+Distância entre os documentos 0 e 1681: 1476
+Distância entre os documentos 0 e 1682: 1566
+Distância entre os documentos 0 e 1683: 823
+Distância entre os documentos 0 e 1686: 883
+Distância entre os documentos 0 e 1684: 1389
+Distância entre os documentos 0 e 1685: 790
+Distância entre os documentos 0 e 1687: 2742
+Distância entre os documentos 0 e 1689: 838
+Distância entre os documentos 0 e 1688: 938
+Distância entre os documentos 0 e 1691: 1232
+Distância entre os documentos 0 e 1692: 819
+Distância entre os documentos 0 e 1690: 786
+Distância entre os documentos 0 e 1693: 3143
+Distância entre os documentos 0 e 1695: 910
+Distância entre os documentos 0 e 1694: 1481
+Distância entre os documentos 0 e 1697: 4749
+Distância entre os documentos 0 e 1698: 799
+Distância entre os documentos 0 e 1696: 1317
+Distância entre os documentos 0 e 1700: 1032
+Distância entre os documentos 0 e 1701: 777
+Distância entre os documentos 0 e 1699: 980
+Distância entre os documentos 0 e 1702: 1208
+Distância entre os documentos 0 e 1703: 1400
+Distância entre os documentos 0 e 1704: 708
+Distância entre os documentos 0 e 1705: 1342
+Distância entre os documentos 0 e 1706: 1817
+Distância entre os documentos 0 e 1707: 737
+Distância entre os documentos 0 e 1709: 1254
+Distância entre os documentos 0 e 1708: 825
+Distância entre os documentos 0 e 1710: 796
+Distância entre os documentos 0 e 1712: 5216
+Distância entre os documentos 0 e 1714: 785
+Distância entre os documentos 0 e 1713: 2440
+Distância entre os documentos 0 e 1711: 892
+Distância entre os documentos 0 e 1715: 14393
+Distância entre os documentos 0 e 1717: 794
+Distância entre os documentos 0 e 1718: 816
+Distância entre os documentos 0 e 1716: 3851
+Distância entre os documentos 0 e 1722: 978
+Distância entre os documentos 0 e 1721: 834
+Distância entre os documentos 0 e 1719: 972
+Distância entre os documentos 0 e 1720: 8915
+Distância entre os documentos 0 e 1723: 1664
+Distância entre os documentos 0 e 1725: 796
+Distância entre os documentos 0 e 1724: 805
+Distância entre os documentos 0 e 1727: 779
+Distância entre os documentos 0 e 1730: 794
+Distância entre os documentos 0 e 1726: 670
+Distância entre os documentos 0 e 1729: 758
+Distância entre os documentos 0 e 1728: 757
+Distância entre os documentos 0 e 1732: 7879
+Distância entre os documentos 0 e 1731: 94267
+Distância entre os documentos 0 e 1734: 2212
+Distância entre os documentos 0 e 1733: 1287
+Distância entre os documentos 0 e 1735: 1788
+Distância entre os documentos 0 e 1736: 821
+Distância entre os documentos 0 e 1737: 968
+Distância entre os documentos 0 e 1738: 750
+Distância entre os documentos 0 e 1739: 649
+Distância entre os documentos 0 e 1740: 936
+Distância entre os documentos 0 e 1741: 1217
+Distância entre os documentos 0 e 1742: 1129
+Distância entre os documentos 0 e 1745: 814
+Distância entre os documentos 0 e 1744: 1784
+Distância entre os documentos 0 e 1743: 786
+Distância entre os documentos 0 e 1747: 1782
+Distância entre os documentos 0 e 1746: 732
+Distância entre os documentos 0 e 1748: 902
+Distância entre os documentos 0 e 1749: 724
+Distância entre os documentos 0 e 1750: 3613
+Distância entre os documentos 0 e 1751: 782
+Distância entre os documentos 0 e 1752: 676
+Distância entre os documentos 0 e 1753: 1345
+Distância entre os documentos 0 e 1755: 2558
+Distância entre os documentos 0 e 1754: 792
+Distância entre os documentos 0 e 1756: 958
