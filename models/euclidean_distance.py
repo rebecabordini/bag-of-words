@@ -1,5 +1,6 @@
 # -*- coding:utf-8 -*-
-from io import BufferedWriter, FileIO
+
+import redis
 
 from Queue import Queue
 from threading import Thread
@@ -40,17 +41,16 @@ class EuclideanDistance:
 
     q = Queue()
     num_worker_threads = 4
-    distances_file = open("results/distances.txt", "w", buffering=20*(1024**2))
     distances = []
+    r = redis.StrictRedis(host='localhost', port=6379, db=0)
+    HASH_NAME = 'euclidean_distances'
 
     def worker(self):
         while True:
             item = self.q.get()
             distance = distance_between_documents(item[0], item[1])
-            text = 'Distância entre os documentos {idx} e {idy}: {dist}'.format(idx=item[2],
-                                                                                idy=item[3],
-                                                                                dist=distance)
-            self.distances_file.write(text + '\n')
+            key = '{idx}+{idy}'.format(idx=item[2], idy=item[3])
+            self.r.hset(self.HASH_NAME, key, distance)
             self.q.task_done()
 
     def calculate_distance(self):
