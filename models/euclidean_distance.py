@@ -66,5 +66,5 @@ class EuclideanDistance:
             for idy in range(idx + 1, len(self.bag_of_words)):
                 document_2 = self.bag_of_words[idy]
                 self.q.put([document_1, document_2, idx, idy])
-
+        self.q.join()
         return distances
